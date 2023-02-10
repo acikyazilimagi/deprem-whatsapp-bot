@@ -1,0 +1,25 @@
+{
+  "name": "deprem-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Lokasyon tabanlı acil durum WhatsApp botu",
+  "main": "src/app.ts",
+  "repository": "https://github.com/acikkaynak/deprem-whatsapp-bot.git",
+  "author": "acikkaynak",
+  "license": "Apache-2.0",
+    "scripts": {
+    "prepare": "tsc",
+    "build:tsc": "tsc",
+    "start": "node --inspect -r ts-node/register src/app.ts"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@types/node": "^18.13.0",
+    "mongodb": "^5.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
