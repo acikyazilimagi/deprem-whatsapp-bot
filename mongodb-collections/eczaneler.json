@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "63e6911bea585824b608d256"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.888455,
+      37.67869,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adıyaman\tBesni",
+    "styleUrl": "#icon-1899-DB4436-labelson",
+    "styleHash": "5c551262",
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Adıyaman Besni Devlet Hastanesi Eczane Bölümü"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d257"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.660489,
+      37.790419,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adıyaman\tGölbaşı",
+    "styleUrl": "#icon-1899-DB4436-labelson",
+    "styleHash": "5c551262",
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Gölbaşı Devlet Hastanesi"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d258"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.272946,
+      37.762728,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adıyaman\tMerkez",
+    "styleUrl": "#icon-1899-DB4436-labelson",
+    "styleHash": "5c551262",
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Adıyaman 1 No'lu Aile Sağlığı Merkezi Yanı"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d259"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.6286499,
+      37.0475862,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep\tİslahiye",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "<img src=\"https://doc-14-80-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/sovd3u8ir00gf0elnq8ao3odn0/1676053800000/hA4YctEnhjjf3BOlGaOgdenVzyAChUM5/*/6AI-xGzwIBFvbbagQAW6L6MQcAOWGvSAQAZM7L8m3uIaXrrnXzs7mEWzImPCfIBh-2P_RDx9RSeosHHDFJNdRGXdyKtizj6ANMANneFeBeaOxE_PxA_2JZqamg-kb_RClC8PAR0LryvYhRcV1eQps3YucSTXuEW0_IPLWfwknavlhpKjizv_jBxRzh8igUYfeQhr9MA?fife\" height=\"200\" width=\"auto\" /><br><br>İslahiye Devlet Hastanesi, Acil Karşısı",
+    "gx_media_links": "https://doc-14-80-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/sovd3u8ir00gf0elnq8ao3odn0/1676053800000/hA4YctEnhjjf3BOlGaOgdenVzyAChUM5/*/6AI-xGzwIBFvbbagQAW6L6MQcAOWGvSAQAZM7L8m3uIaXrrnXzs7mEWzImPCfIBh-2P_RDx9RSeosHHDFJNdRGXdyKtizj6ANMANneFeBeaOxE_PxA_2JZqamg-kb_RClC8PAR0LryvYhRcV1eQps3YucSTXuEW0_IPLWfwknavlhpKjizv_jBxRzh8igUYfeQhr9MA?fife"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d25a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.158142,
+      36.576015,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay\tİskenderun",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "İskenderun Teknik Üniversitesi Merkez Kampüs Yanı"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d25b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.336447,
+      36.487887,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay\tKırıkhan",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Kırıkhan Devlet Hastanesi"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d25c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.158987,
+      36.201388,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay\tMerkez",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Hatay Sağlık İl Müdürlüğü"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d25d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.945477,
+      38.232732,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş\tAfşin",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Pınarbaşı, Afşinbey Cd."
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d25e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.003538,
+      37.503729,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş\tMerkez-1",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "<img src=\"https://doc-08-80-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/7960qlv5k7jc14fhdivh0dqigk/1676053800000/hA4YctEnhjjf3BOlGaOgdenVzyAChUM5/*/6AI-xGzwcmviRUkvxYyRCoWqOMNYrHnqpMbtzwVpVRf8YaIHzpXeIn6gYTQbbZ9vuDoXxleqYSkcDMb56vMf9eK9NAQOQfQjQ1HdhF-sEBbZyCIyqDCVJEzL0O8piLp6XUHM-mfYJXUKpqEpMJJJj1anWkWWEFgC2AFlzzbb3cFWyXCYN-WS05E9E4SOZ-BfdbGhmpw?fife\" height=\"200\" width=\"auto\" /><br><br>Necip Fazıl Şehir Hastanesi Yörükselim Ek Hizmet Binası, Onikişubat<br><br><img src=\"https://doc-0c-80-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/frskmafiu4b5to70jtfaf7p1tc/1676053800000/hA4YctEnhjjf3BOlGaOgdenVzyAChUM5/*/6AI-xGzyFl0enUf4WRD2_ohR6DZRWFCW9pHBlkRnxw7KWeOBLfz4yBGdhn4Zhype0OtuI4AkgiYJ5yI2tl_SYTQDyAghuspcuutCQM2mmMn_MBT5t7ls6TgyEwJKfEShT6MrOwwirZRL2Pp0zEpNnAcjBi-e1SexRDR_1m_iFTluXFFCdBCa555LJIN-_RJPakhWMqg?fife\" height=\"200\" width=\"auto\" />",
+    "gx_media_links": "https://doc-08-80-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/7960qlv5k7jc14fhdivh0dqigk/1676053800000/hA4YctEnhjjf3BOlGaOgdenVzyAChUM5/*/6AI-xGzwcmviRUkvxYyRCoWqOMNYrHnqpMbtzwVpVRf8YaIHzpXeIn6gYTQbbZ9vuDoXxleqYSkcDMb56vMf9eK9NAQOQfQjQ1HdhF-sEBbZyCIyqDCVJEzL0O8piLp6XUHM-mfYJXUKpqEpMJJJj1anWkWWEFgC2AFlzzbb3cFWyXCYN-WS05E9E4SOZ-BfdbGhmpw?fife https://doc-0c-80-mymaps.googleusercontent.com/untrusted/hostedimage/onccannug6oukilnrbbi0nhldc/frskmafiu4b5to70jtfaf7p1tc/1676053800000/hA4YctEnhjjf3BOlGaOgdenVzyAChUM5/*/6AI-xGzyFl0enUf4WRD2_ohR6DZRWFCW9pHBlkRnxw7KWeOBLfz4yBGdhn4Zhype0OtuI4AkgiYJ5yI2tl_SYTQDyAghuspcuutCQM2mmMn_MBT5t7ls6TgyEwJKfEShT6MrOwwirZRL2Pp0zEpNnAcjBi-e1SexRDR_1m_iFTluXFFCdBCa555LJIN-_RJPakhWMqg?fife"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d25f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.883457,
+      37.592593,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş\tMerkez-2",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Necip Fazıl Şehir Hastanesi Kadın Doğum ve Çocuk Hastalıkları Ek Hizmet Binası"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d260"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.292677,
+      37.48949,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş\tPazarcık",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Pazarcık Belediyesi Bahçesi"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d261"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.281667,
+      38.348904,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya\tMerkez-1",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Malatya Eğitim Araştırma Hastanesi Bahçesi"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d262"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.334354,
+      38.347054,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya\tMerkez-2",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Battalgazi Devlet Hastanesi Bahçesi (Eczacı Odası Çadır Eczane)"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d263"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.429467,
+      38.338559,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya\tMerkez-3",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Turgut Özal Tıp Merkezi Hastanesi Bahçesi (Eczacı Odası Çadır Eczane)"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d264"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.792445,
+      37.223931,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa\tMerkez-1",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Karaköprü Fuar Merkezi Bahçesi (Eczacı Odası Konteyner Eczane)"
+  }
+},{
+  "_id": {
+    "$oid": "63e6911bea585824b608d265"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.781008,
+      37.155136,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa\tMerkez-2",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Şanlıurfa Müzesi Otoparkı (Piazza AVM Yanı) (Eczacı Odası Konteyner Eczane)"
+  }
+}]

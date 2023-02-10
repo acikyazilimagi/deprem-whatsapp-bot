@@ -1,0 +1,6169 @@
+[{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e726"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.289948,
+      37.721575
+    ]
+  },
+  "properties": {
+    "ekipID": "8800378130",
+    "ekipAdi": "Burdur Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 37.721575,
+    "koordinatLongitude": 30.289948,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-7 Burdur Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ACUN SOK. NO:19 KAT:1",
+    "mahalle": "YENİ",
+    "ilId": 15,
+    "ilIdBolgeli": "15-0000001351",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000277",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0248 234 1530",
+    "telefonDahili": "",
+    "bkmId": "0000001351",
+    "bkmTanim": "Tufan Tuğrul Tuncay Ertop",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e727"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.7084,
+      36.899284
+    ]
+  },
+  "properties": {
+    "ekipID": "8800378921",
+    "ekipAdi": "Antalya Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 36.899284,
+    "koordinatLongitude": 30.7084,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-6 Antalya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "EVLİYA ÇELEBİ CAD. 861 SOK. NO:6",
+    "mahalle": "ETİLER",
+    "ilId": 7,
+    "ilIdBolgeli": "07-0000001351",
+    "ilceAd": "MURATPAŞA",
+    "ilceId": "000000006123",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0242 310 5555",
+    "telefonDahili": "",
+    "bkmId": "0000001351",
+    "bkmTanim": "Tufan Tuğrul Tuncay Ertop",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e728"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.06089539,
+      40.195692
+    ]
+  },
+  "properties": {
+    "ekipID": "8800378987",
+    "ekipAdi": "BURSA KENT MEYDAN KAB",
+    "koordinatLatitude": 40.195692,
+    "koordinatLongitude": 29.06089539,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "BURSA KENT MEYDAN KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-46 Bursa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KIBRIS ŞEHITLERI CAD.",
+    "mahalle": "SANTRAL GARAJ",
+    "ilId": 16,
+    "ilIdBolgeli": "16-0000000485",
+    "ilceAd": "OSMANGAZİ",
+    "ilceId": "000000000299",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0224 262 5518",
+    "telefonDahili": "",
+    "bkmId": "0000000485",
+    "bkmTanim": "Nihat Çakır",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e729"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.0606635,
+      40.18785219
+    ]
+  },
+  "properties": {
+    "ekipID": "8800378996",
+    "ekipAdi": "BURSA DEMOKRASİ MEYDAN KAB",
+    "koordinatLatitude": 40.18785219,
+    "koordinatLongitude": 29.0606635,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T13:30:00",
+    "araBitisSaati": "0001-01-01T14:30:00",
+    "geziciEkipSebebi": null,
+    "kab": "BURSA DEMOKRASİ MEYDAN KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-46 Bursa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KÜSTÜ SK.NO.1",
+    "mahalle": "ŞEHREKÜSTÜ",
+    "ilId": 16,
+    "ilIdBolgeli": "16-0000000485",
+    "ilceAd": "OSMANGAZİ",
+    "ilceId": "000000000299",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0224 262 5518",
+    "telefonDahili": "",
+    "bkmId": "0000000485",
+    "bkmTanim": "Nihat Çakır",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:30:00",
+        "bitisZaman": "0001-01-01T14:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e72a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.60166159,
+      40.73215769
+    ]
+  },
+  "properties": {
+    "ekipID": "8800379553",
+    "ekipAdi": "BOLU KAB",
+    "koordinatLatitude": 40.73215769,
+    "koordinatLongitude": 31.60166159,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:30:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "BOLU KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-12 Düzce Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KARDELEN MEYDANI VALILIK YANI",
+    "mahalle": "BAHÇELİEVLER",
+    "ilId": 14,
+    "ilIdBolgeli": "14-0000001182",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000265",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0380 514 3833",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e72b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.01972,
+      37.800713
+    ]
+  },
+  "properties": {
+    "ekipID": "8800379720",
+    "ekipAdi": "Denizli Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 37.800713,
+    "koordinatLongitude": 29.01972,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T14:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-42 Denizli Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ALİ MARIM BULVARI NO:21",
+    "mahalle": "KARAHASANLI",
+    "ilId": 20,
+    "ilIdBolgeli": "20-0000009562",
+    "ilceAd": "MERKEZEFENDİ",
+    "ilceId": "000000006157",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0258 265 4976",
+    "telefonDahili": "",
+    "bkmId": "0000009562",
+    "bkmTanim": "Zafer Aydın",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T14:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e72c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.086642,
+      37.772165
+    ]
+  },
+  "properties": {
+    "ekipID": "8800379740",
+    "ekipAdi": "ÇINAR KAB",
+    "koordinatLatitude": 37.772165,
+    "koordinatLongitude": 29.086642,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "ÇINAR KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-42 Denizli Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "MESERRET SK. NO: 11",
+    "mahalle": "ALTINTOP",
+    "ilId": 20,
+    "ilIdBolgeli": "20-0000009562",
+    "ilceAd": "MERKEZEFENDİ",
+    "ilceId": "000000006157",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": true,
+    "telefon": "0258 265 4976",
+    "telefonDahili": "",
+    "bkmId": "0000009562",
+    "bkmTanim": "Zafer Aydın",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e72d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.4916871,
+      38.7347696
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380094",
+    "ekipAdi": "Muş Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 38.7347696,
+    "koordinatLongitude": 41.4916871,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T16:30:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-40 Muş Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "BANKALAR CAD. 165. SOK. KIZILAY İŞ HANINO:1",
+    "mahalle": "KÜLTÜR",
+    "ilId": 49,
+    "ilIdBolgeli": "49-0000003626",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000740",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0436 212 8080",
+    "telefonDahili": "",
+    "bkmId": "0000003626",
+    "bkmTanim": "İbrahim Çelik",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e72e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.01622,
+      39.75133
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380421",
+    "ekipAdi": "Sivas Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 39.75133,
+    "koordinatLongitude": 37.01622,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T22:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-51 Sivas Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KEPENEK CAD. ALİAĞA CAMİİ YANI NO:4",
+    "mahalle": "SULARBAŞI",
+    "ilId": 58,
+    "ilIdBolgeli": "58-0000001550",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000842",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0346 221 2578",
+    "telefonDahili": "",
+    "bkmId": "0000001550",
+    "bkmTanim": "Adem Tatar",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      },
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T18:00:00",
+        "bitisZaman": "0001-01-01T19:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e72f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.220872,
+      37.918234
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380429",
+    "ekipAdi": "YENİŞEHİR KAB",
+    "koordinatLatitude": 37.918234,
+    "koordinatLongitude": 40.220872,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:30:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "YENİŞEHİR KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-33 Diyarbakır Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "EKINCILER CAD. M.AKIF ERSOY YURDU ÖNÜ OF",
+    "mahalle": "KOOPERATİFLER",
+    "ilId": 21,
+    "ilIdBolgeli": "21-0000010011",
+    "ilceAd": "YENİŞEHİR",
+    "ilceId": "000000006109",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0412 228 3297",
+    "telefonDahili": "",
+    "bkmId": "0000010011",
+    "bkmTanim": "Naif Yılmaz",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e730"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.005055,
+      36.547035
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380449",
+    "ekipAdi": "ALANYA KAB",
+    "koordinatLatitude": 36.547035,
+    "koordinatLongitude": 32.005055,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T19:45:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "ALANYA KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-6 Antalya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ŞEKERHANE , HACET CD. NO:41",
+    "mahalle": "ŞEKERHANE",
+    "ilId": 7,
+    "ilIdBolgeli": "07-0000001351",
+    "ilceAd": "ALANYA",
+    "ilceId": "000000000184",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0242 310 5555",
+    "telefonDahili": "",
+    "bkmId": "0000001351",
+    "bkmTanim": "Tufan Tuğrul Tuncay Ertop",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e731"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.152939,
+      40.8402665
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380454",
+    "ekipAdi": "KREMPARK KAB",
+    "koordinatLatitude": 40.8402665,
+    "koordinatLongitude": 31.152939,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "KREMPARK KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-12 Düzce Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "NO:116, İSTANBUL CD.",
+    "mahalle": "KÜLTÜR",
+    "ilId": 81,
+    "ilIdBolgeli": "81-0000001182",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000001022",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0380 514 3833",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e732"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.58022249,
+      39.9636341
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380481",
+    "ekipAdi": "SİNCAN KAB",
+    "koordinatLatitude": 39.9636341,
+    "koordinatLongitude": 32.58022249,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "SİNCAN KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-60 Batı Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "LALE MEYDANI ÜSTÜ  BELEDIYE DÜKKANLARI",
+    "mahalle": "ATATÜRK",
+    "ilId": 6,
+    "ilIdBolgeli": "06-0000001433",
+    "ilceAd": "SİNCAN",
+    "ilceId": null,
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0312 256 4717-57",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e733"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.3838448,
+      40.775037
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380560",
+    "ekipAdi": "Sakarya Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 40.775037,
+    "koordinatLongitude": 30.3838448,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:30:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-15 Sakarya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ARABACI ALANI MAH. ÇARK CAD. NO:114",
+    "mahalle": "",
+    "ilId": 54,
+    "ilIdBolgeli": "54-0000001182",
+    "ilceAd": "SERDİVAN",
+    "ilceId": "000000006151",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0264 291 5226",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e734"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.9768979,
+      38.2288234
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380572",
+    "ekipAdi": "Ödemiş Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 38.2288234,
+    "koordinatLongitude": 27.9768979,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T20:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-32 Ödemiş Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ULUS MEYDANI NO:1/B",
+    "mahalle": "ATATÜRK",
+    "ilId": 35,
+    "ilIdBolgeli": "35-0000005432",
+    "ilceAd": "ÖDEMİŞ",
+    "ilceId": "000000000558",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0232 544 8677",
+    "telefonDahili": "",
+    "bkmId": "0000005432",
+    "bkmTanim": "Barış Dolaş",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e735"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.92815339,
+      40.7643589
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380634",
+    "ekipAdi": "İZMİT KAB",
+    "koordinatLatitude": 40.7643589,
+    "koordinatLongitude": 29.92815339,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "İZMİT KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-13 İzmit Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "CUMHURIYET CAD. NU: 180 (ULUGAZI İLKÖĞR",
+    "mahalle": "KARABAŞ",
+    "ilId": 41,
+    "ilIdBolgeli": "41-0000001182",
+    "ilceAd": "İZMİT",
+    "ilceId": "000000000628",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": true,
+    "telefon": "0262 311 1202",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e736"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.968702,
+      40.768788
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380666",
+    "ekipAdi": "İzmit Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 40.768788,
+    "koordinatLongitude": 29.968702,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-13 İzmit Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "YAHYAKAPTAN MAH. ŞHT ERGÜN KÖNCÜ SOK.NO:15",
+    "mahalle": "",
+    "ilId": 41,
+    "ilIdBolgeli": "41-0000001182",
+    "ilceAd": "İZMİT",
+    "ilceId": "000000000628",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0262 311 1202",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e737"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.403413,
+      40.149983
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380706",
+    "ekipAdi": "Çanakkale Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 40.149983,
+    "koordinatLongitude": 26.403413,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:30:00",
+    "bitisSaati": "0001-01-01T14:30:00",
+    "araBaslangicSaati": "0001-01-01T11:30:00",
+    "araBitisSaati": "0001-01-01T12:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-47 Çanakkale Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ESKİ HÜKÜMET SOK. KIZILAY APT. NO:15/1",
+    "mahalle": "KEMALPAŞA",
+    "ilId": 17,
+    "ilIdBolgeli": "17-0000000485",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000307",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0286 217 1284",
+    "telefonDahili": "",
+    "bkmId": "0000000485",
+    "bkmTanim": "Nihat Çakır",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T11:30:00",
+        "bitisZaman": "0001-01-01T12:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e738"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.891794,
+      36.916613
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380729",
+    "ekipAdi": "YARENLİK KAB",
+    "koordinatLatitude": 36.916613,
+    "koordinatLongitude": 34.891794,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "YARENLİK KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-58 Mersin Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ŞEHIT MUSTAFA MH.CENGIZ TOPEL CD.33440 T",
+    "mahalle": "ŞEHIT MUSTAFA",
+    "ilId": 33,
+    "ilIdBolgeli": "33-0000002553",
+    "ilceAd": "TARSUS",
+    "ilceId": null,
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0324 239 4124",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e739"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.55443,
+      37.76395
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380760",
+    "ekipAdi": "ISPARTA KAB",
+    "koordinatLatitude": 37.76395,
+    "koordinatLongitude": 30.55443,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "ISPARTA KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-8 Isparta Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "101 CADDE-MIMAR SINAN CADDESI NO:13",
+    "mahalle": "PIRI MEHMET",
+    "ilId": 32,
+    "ilIdBolgeli": "32-0000001351",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000486",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0246 223 3335",
+    "telefonDahili": "",
+    "bkmId": "0000001351",
+    "bkmTanim": "Tufan Tuğrul Tuncay Ertop",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e73a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.6220607,
+      41.1952329
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380936",
+    "ekipAdi": "Karabük Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 41.1952329,
+    "koordinatLongitude": 32.6220607,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-14 Karabük Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ERGENEKON MAH. ATATÜRK BULVARIKIZILAY İŞHANI KAT:2 NO:4",
+    "mahalle": "",
+    "ilId": 78,
+    "ilIdBolgeli": "78-0000001182",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000001004",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0370 412 47 74",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e73b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.804669,
+      41.14791
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380944",
+    "ekipAdi": "Çorlu Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 41.14791,
+    "koordinatLongitude": 27.804669,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T14:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-3 Çorlu Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "RUMELİ MAH. BÜLENT ECEVİT BULVARIŞ. KURSUN CAD. RUMELİ ST.B BLOK NO:12",
+    "mahalle": "",
+    "ilId": 59,
+    "ilIdBolgeli": "59-0000001334",
+    "ilceAd": "ÇORLU",
+    "ilceId": "000000000849",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0282 653 1193",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T00:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e73c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.507092,
+      39.841772
+    ]
+  },
+  "properties": {
+    "ekipID": "8800380984",
+    "ekipAdi": "KIRIKKALE KAB",
+    "koordinatLatitude": 39.841772,
+    "koordinatLongitude": 33.507092,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T13:30:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "KIRIKKALE KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-59 Ankara Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "BARBAROS HAYRETTİN CAD. 26/A",
+    "mahalle": "YENİDOĞAN",
+    "ilId": 71,
+    "ilIdBolgeli": "71-0000001433",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000966",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0312 496 2065",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:30:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e73d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.955046,
+      40.550228
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381031",
+    "ekipAdi": "HİTİT KAB",
+    "koordinatLatitude": 40.550228,
+    "koordinatLongitude": 34.955046,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T12:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": "0001-01-01T12:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "HİTİT KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-61 Çorum Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "GAZI CADDESI NO:7 YENİYOL MH.",
+    "mahalle": "YENİYOL",
+    "ilId": 19,
+    "ilIdBolgeli": "19-0000001433",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000329",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0364 225 7000",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T11:45:00",
+        "bitisZaman": "0001-01-01T12:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e73e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.882835,
+      39.647001
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381062",
+    "ekipAdi": "BALIKESİR KAB",
+    "koordinatLatitude": 39.647001,
+    "koordinatLongitude": 27.882835,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "BALIKESİR KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-45 Balıkesir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ÇAVUŞ SOK. NO:9 ÖZMERKEZ ARKASI",
+    "mahalle": "ESKİ KUYUMCULAR",
+    "ilId": 10,
+    "ilIdBolgeli": "10-0000000485",
+    "ilceAd": "KARESİ",
+    "ilceId": "000000006177",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0266 246 0480",
+    "telefonDahili": "",
+    "bkmId": "0000000485",
+    "bkmTanim": "Nihat Çakır",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e73f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.903918,
+      39.656813
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381072",
+    "ekipAdi": "Balıkesir Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 39.656813,
+    "koordinatLongitude": 27.903918,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-45 Balıkesir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "BANDIRMA CAD. NO:1",
+    "mahalle": "ATATÜRK",
+    "ilId": 10,
+    "ilIdBolgeli": "10-0000000485",
+    "ilceAd": "KARESİ",
+    "ilceId": "000000006177",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0266 246 0480",
+    "telefonDahili": "",
+    "bkmId": "0000000485",
+    "bkmTanim": "Nihat Çakır",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e740"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.264934,
+      40.967778
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381108",
+    "ekipAdi": "SULTANBEYLİ KAB",
+    "koordinatLatitude": 40.967778,
+    "koordinatLongitude": 29.264934,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T14:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "SULTANBEYLİ KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-54 Sümer Günay Kan Bağış Merkezi Müdürlüğü",
+    "adres": "FATIH CD. YANYOLU NO:129",
+    "mahalle": "MEHMET AKİF",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "SULTANBEYLİ",
+    "ilceId": "000000000529",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "02164580500-444 9 526",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e741"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.88444749,
+      39.93459
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381156",
+    "ekipAdi": "Ankara Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 39.93459,
+    "koordinatLongitude": 32.88444749,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T00:01:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-59 Ankara Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "MAMAK CAD. NO:10",
+    "mahalle": "BALKİRAZ",
+    "ilId": 6,
+    "ilIdBolgeli": "06-0000001433",
+    "ilceAd": "MAMAK",
+    "ilceId": "000000000177",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0312 496 2065",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e742"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.26671,
+      36.85705
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381158",
+    "ekipAdi": "Marmaris Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 36.85705,
+    "koordinatLongitude": 28.26671,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-43 Marmaris Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Eski Datça Yolu Caddesi 52, 48700Marmaris, Türkiye",
+    "mahalle": "KEMERALTI",
+    "ilId": 48,
+    "ilIdBolgeli": "48-0000009562",
+    "ilceAd": "MARMARİS",
+    "ilceId": "000000000730",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "2524120088",
+    "telefonDahili": "",
+    "bkmId": "0000009562",
+    "bkmTanim": "Zafer Aydın",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e743"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.546671,
+      37.760215
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381194",
+    "ekipAdi": "Isparta Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 37.760215,
+    "koordinatLongitude": 30.546671,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:30:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-8 Isparta Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "HALİS SOK. NO:1 DOĞUM EVİ YANI",
+    "mahalle": "HIZIRBEY",
+    "ilId": 32,
+    "ilIdBolgeli": "32-0000001351",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000486",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0246 223 3335",
+    "telefonDahili": "",
+    "bkmId": "0000001351",
+    "bkmTanim": "Tufan Tuğrul Tuncay Ertop",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e744"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.931367,
+      36.382633
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381208",
+    "ekipAdi": "SİLİFKE KAN ALMA BİRİMİ",
+    "koordinatLatitude": 36.382633,
+    "koordinatLongitude": 33.931367,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:30:00",
+    "bitisSaati": "0001-01-01T16:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": "SİLİFKE KAN ALMA BİRİMİ",
+    "kbmId": 0,
+    "kbmAd": "KBM-58 Mersin Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "GAZI MAHALLESI ,GÖKSU CADDESIATATÜRK BULVARI 33960",
+    "mahalle": "GAZİ",
+    "ilId": 33,
+    "ilIdBolgeli": "33-0000002553",
+    "ilceAd": "SİLİFKE",
+    "ilceId": "000000000502",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0324 239 4124",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e745"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.8534395,
+      39.9201386
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381252",
+    "ekipAdi": "KIZILAY MEYDAN KAB",
+    "koordinatLatitude": 39.9201386,
+    "koordinatLongitude": 32.8534395,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "KIZILAY MEYDAN KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-59 Ankara Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ATATÜRK BULVARI GÜVENPARK İÇI KIZILAY",
+    "mahalle": "MUSTAFA KEMAL",
+    "ilId": 6,
+    "ilIdBolgeli": "06-0000001433",
+    "ilceAd": "ÇANKAYA",
+    "ilceId": "000000000165",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0312 496 2065",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e746"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.1312036,
+      37.8965508
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381270",
+    "ekipAdi": "Batman Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 37.8965508,
+    "koordinatLongitude": 41.1312036,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-34 Batman Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "GAP MAH. İNSAN HAKLARI BULVARI NO: 3BATSO BİNASI ALTI",
+    "mahalle": "",
+    "ilId": 72,
+    "ilIdBolgeli": "72-0000010011",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000969",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0488 213 1382",
+    "telefonDahili": "",
+    "bkmId": "0000010011",
+    "bkmTanim": "Naif Yılmaz",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e747"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.73087779,
+      41.0053718
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381272",
+    "ekipAdi": "TRABZON KAB",
+    "koordinatLatitude": 41.0053718,
+    "koordinatLongitude": 39.73087779,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "TRABZON KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-28 Trabzon Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ATATÜRK ALANI NO:47",
+    "mahalle": "İSKENDERPAŞA",
+    "ilId": 61,
+    "ilIdBolgeli": "61-0000004729",
+    "ilceAd": "ORTAHİSAR",
+    "ilceId": "000000006158",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": true,
+    "telefon": "0462 502 42 00",
+    "telefonDahili": "",
+    "bkmId": "0000004729",
+    "bkmTanim": "Dila Baran",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e748"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.59142819,
+      36.7828864
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381276",
+    "ekipAdi": "FORUM YAŞAMEVİ KAB",
+    "koordinatLatitude": 36.7828864,
+    "koordinatLongitude": 34.59142819,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "FORUM YAŞAMEVİ KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-58 Mersin Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "1. CAD. NO:120-133 (YENIŞEHIR HASTANESI",
+    "mahalle": "GÜVENEVLER",
+    "ilId": 33,
+    "ilIdBolgeli": "33-0000002553",
+    "ilceAd": "YENİŞEHİR",
+    "ilceId": "000000006131",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0324 239 4124",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e749"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.33296029,
+      41.2865519
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381277",
+    "ekipAdi": "ÇİFTLİK KAB",
+    "koordinatLatitude": 41.2865519,
+    "koordinatLongitude": 36.33296029,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T13:30:00",
+    "araBitisSaati": "0001-01-01T14:30:00",
+    "geziciEkipSebebi": null,
+    "kab": "ÇİFTLİK KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-66 Samsun Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "İSTIKLAL CAD. HAMIDIYE HANIM APT. GIRIŞ",
+    "mahalle": "HÜRRIYET",
+    "ilId": 55,
+    "ilIdBolgeli": "55-0000001458",
+    "ilceAd": "İLKADIM",
+    "ilceId": "000000006154",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": true,
+    "telefon": "0362 457 5565",
+    "telefonDahili": "",
+    "bkmId": "0000001458",
+    "bkmTanim": "Muhsin Yıldırım",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:30:00",
+        "bitisZaman": "0001-01-01T14:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e74a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.83087097000397,
+      40.97856168333452
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381279",
+    "ekipAdi": "Trabzon Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 40.97856168333452,
+    "koordinatLongitude": 39.83087097000397,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-28 Trabzon Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "YALINCAK MAH. YALINCAK RİZE CAD.",
+    "mahalle": "SEYRAN EVLERİ NO:76/D",
+    "ilId": 61,
+    "ilIdBolgeli": "61-0000004729",
+    "ilceAd": "ORTAHİSAR",
+    "ilceId": "000000006158",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0462 502 42 00",
+    "telefonDahili": "",
+    "bkmId": "0000004729",
+    "bkmTanim": "Dila Baran",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e74b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.855398,
+      39.920111
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381282",
+    "ekipAdi": "KARANFİL KAB",
+    "koordinatLatitude": 39.920111,
+    "koordinatLongitude": 32.855398,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "KARANFİL KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-59 Ankara Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KARANFIL SOKAK NO:7 KIZILAY",
+    "mahalle": "MEŞRUTİYET",
+    "ilId": 6,
+    "ilIdBolgeli": "06-0000001433",
+    "ilceAd": "ÇANKAYA",
+    "ilceId": "000000000165",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0312 496 2065",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e74c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.6239007,
+      36.8042103
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381292",
+    "ekipAdi": "AKDENİZ YAŞAMEVİ KAB",
+    "koordinatLatitude": 36.8042103,
+    "koordinatLongitude": 34.6239007,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "AKDENİZ YAŞAMEVİ KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-58 Mersin Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "111.CADDE NO:48 (52 KATLI BINA YANI)",
+    "mahalle": "İHSANIYE",
+    "ilId": 33,
+    "ilIdBolgeli": "33-0000002553",
+    "ilceAd": "AKDENİZ",
+    "ilceId": "000000006130",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0324 239 4124",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e74d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.6220607,
+      41.1952329
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381299",
+    "ekipAdi": "BARTIN KAB",
+    "koordinatLatitude": 41.1952329,
+    "koordinatLongitude": 32.6220607,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "BARTIN KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-14 Karabük Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "BARTIN TARIM İL MÜDÜRLÜĞÜ GİRİŞİ",
+    "mahalle": "ELMALIK MEVKİİ",
+    "ilId": 74,
+    "ilIdBolgeli": "74-",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000983",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0370 412 47 74",
+    "telefonDahili": "",
+    "bkmId": null,
+    "bkmTanim": "  ",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e74e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.53762,
+      36.78496
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381311",
+    "ekipAdi": "MERSİN TIP FAKÜLTESİ KAB",
+    "koordinatLatitude": 36.78496,
+    "koordinatLongitude": 34.53762,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T16:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "MERSİN TIP FAKÜLTESİ KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-58 Mersin Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "MERSIN ÜNIVERSITESI SAĞLIK ARAŞTIRMASI V",
+    "mahalle": "ÇIFTLIKKÖY",
+    "ilId": 33,
+    "ilIdBolgeli": "33-0000002553",
+    "ilceAd": "YENİŞEHİR",
+    "ilceId": "000000006131",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0324 239 4124",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e74f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.03226,
+      41.01829
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381314",
+    "ekipAdi": "Zeynep Kamil Kan Bağışı Merkezi Müdürlüğ",
+    "koordinatLatitude": 41.01829,
+    "koordinatLongitude": 29.03226,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T20:30:00",
+    "araBaslangicSaati": "0001-01-01T15:00:00",
+    "araBitisSaati": "0001-01-01T16:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-55 Zeynep Kamil Kan Bağışı Merkezi Müdürlüğ",
+    "adres": "BARBAROS MAH. NUH KUYU CAD. NO:56",
+    "mahalle": "",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "ÜSKÜDAR",
+    "ilceId": "000000000534",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0216 342 0575",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T15:00:00",
+        "bitisZaman": "0001-01-01T16:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e750"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.2727407,
+      40.6573877
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381317",
+    "ekipAdi": "YALOVA KAB",
+    "koordinatLatitude": 40.6573877,
+    "koordinatLongitude": 29.2727407,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": "YALOVA KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-68 Yalova Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "SÜLEYMAN BEY MAH. CENGIZ KOÇAL CAD.45/17 YALOVA",
+    "mahalle": "SÜLEYMAN BEY",
+    "ilId": 77,
+    "ilIdBolgeli": "77-0000000485",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000001001",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0226 811 5577",
+    "telefonDahili": "",
+    "bkmId": "0000000485",
+    "bkmTanim": "Nihat Çakır",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e751"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.06526,
+      40.183996
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381329",
+    "ekipAdi": "Bursa Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 40.183996,
+    "koordinatLongitude": 29.06526,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T20:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-46 Bursa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ORHAN MAH. İMARET SOK. NO:9/B",
+    "mahalle": "",
+    "ilId": 16,
+    "ilIdBolgeli": "16-0000000485",
+    "ilceAd": "OSMANGAZİ",
+    "ilceId": "000000000299",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0224 262 5518",
+    "telefonDahili": "",
+    "bkmId": "0000000485",
+    "bkmTanim": "Nihat Çakır",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e752"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.534462,
+      38.697412
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381344",
+    "ekipAdi": "Kayseri Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 38.697412,
+    "koordinatLongitude": 35.534462,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T16:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-48 Kayseri Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KÖŞK MAH. TALAS BULVARI GÖĞÜS HASTANESİYANI",
+    "mahalle": "",
+    "ilId": 38,
+    "ilIdBolgeli": "38-0000001550",
+    "ilceAd": "MELİKGAZİ",
+    "ilceId": "000000000599",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0352 437 19 44",
+    "telefonDahili": "",
+    "bkmId": "0000001550",
+    "bkmTanim": "Adem Tatar",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e753"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.12993089,
+      38.3178597
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381362",
+    "ekipAdi": "GAZİEMİR KAB",
+    "koordinatLatitude": 38.3178597,
+    "koordinatLongitude": 27.12993089,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "GAZİEMİR KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-29 İzmir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ÇAĞLAR CADDESI NO:3/A",
+    "mahalle": "ATIFBEY  ALLES",
+    "ilId": 35,
+    "ilIdBolgeli": "35-0000005432",
+    "ilceAd": "GAZİEMİR",
+    "ilceId": null,
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": true,
+    "telefon": "0232 347 3377",
+    "telefonDahili": "",
+    "bkmId": "0000005432",
+    "bkmTanim": "Barış Dolaş",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e754"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.18724599,
+      38.461423
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381364",
+    "ekipAdi": "İzmir Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 38.461423,
+    "koordinatLongitude": 27.18724599,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T23:59:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-29 İzmir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ALİJA İZETBEGOVİÇ CAD. NO:41",
+    "mahalle": "MANAVKUYU",
+    "ilId": 35,
+    "ilIdBolgeli": "35-0000005432",
+    "ilceAd": "BAYRAKLI",
+    "ilceId": "000000006140",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0232 347 3377",
+    "telefonDahili": "",
+    "bkmId": "0000005432",
+    "bkmTanim": "Barış Dolaş",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      },
+      {
+        "id": "0",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T20:00:00",
+        "bitisZaman": "0001-01-01T20:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e755"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.40487,
+      38.67916
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381370",
+    "ekipAdi": "UŞAK BELEDİYESİ KAB",
+    "koordinatLatitude": 38.67916,
+    "koordinatLongitude": 29.40487,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "UŞAK BELEDİYESİ KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-44 Uşak Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "UŞAK ESKI BELEDIYE BŞKN. BINASI YANI(ULU CAMI YANI)İSMET PAŞA CD. NO:3",
+    "mahalle": "İSLİCE",
+    "ilId": 64,
+    "ilIdBolgeli": "64-0000009562",
+    "ilceAd": "MERKEZ",
+    "ilceId": null,
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0276 224 2764",
+    "telefonDahili": "",
+    "bkmId": "0000009562",
+    "bkmTanim": "Zafer Aydın",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e756"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.317307,
+      37.0016109
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381374",
+    "ekipAdi": "Adana Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 37.0016109,
+    "koordinatLongitude": 35.317307,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T00:30:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-56 Adana Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "16. SOK. NO:11",
+    "mahalle": "KURTULUŞ",
+    "ilId": 1,
+    "ilIdBolgeli": "01-0000002553",
+    "ilceAd": "SEYHAN",
+    "ilceId": "000000000113",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0 322 454 61 31",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e757"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.6050615,
+      36.7847265
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381375",
+    "ekipAdi": "Mersin Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 36.7847265,
+    "koordinatLongitude": 34.6050615,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-58 Mersin Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "PALMİYE MAH. İSMET İNÖNÜ BULVARI 1219SOK. ÖZDEMİR APT. NO:2 ZEMİN",
+    "mahalle": "",
+    "ilId": 33,
+    "ilIdBolgeli": "33-0000002553",
+    "ilceAd": "YENİŞEHİR",
+    "ilceId": "000000006131",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0324 239 4124",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e758"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3305688,
+      36.98979
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381380",
+    "ekipAdi": "İNÖNÜ YAŞAMEVİ KAB",
+    "koordinatLatitude": 36.98979,
+    "koordinatLongitude": 35.3305688,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T16:30:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "İNÖNÜ YAŞAMEVİ KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-56 Adana Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "İNÖNÜ CD.",
+    "mahalle": "KAYALIBAĞ",
+    "ilId": 1,
+    "ilIdBolgeli": "01-0000002553",
+    "ilceAd": "SEYHAN",
+    "ilceId": "000000000113",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0 322 454 61 31",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e759"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.35565889,
+      37.0004775
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381381",
+    "ekipAdi": "YÜREĞİR DEVLET HASTANESİ KAB",
+    "koordinatLatitude": 37.0004775,
+    "koordinatLongitude": 35.35565889,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T15:30:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "YÜREĞİR DEVLET HASTANESİ KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-56 Adana Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "EGE BAGATUR CD. 01240",
+    "mahalle": "SERINEVLER",
+    "ilId": 1,
+    "ilIdBolgeli": "01-0000002553",
+    "ilceAd": "YÜREĞİR",
+    "ilceId": "000000000116",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0 322 454 61 31",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e75a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.472653,
+      39.789602
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381382",
+    "ekipAdi": "Eskişehir Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 39.789602,
+    "koordinatLongitude": 30.472653,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-10 Eskişehir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "DÜNYA SOK. NO:16",
+    "mahalle": "ULUÖNDER",
+    "ilId": 26,
+    "ilIdBolgeli": "26-0000000716",
+    "ilceAd": "TEPEBAŞI",
+    "ilceId": "000000006155",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0222 330 0601 -02 -03 -04 -05",
+    "telefonDahili": "",
+    "bkmId": "0000000716",
+    "bkmTanim": "Erkan Ergen",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e75b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.25075391156887,
+      37.07524881851747
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381383",
+    "ekipAdi": "OSMANİYE KAB",
+    "koordinatLatitude": 37.07524881851747,
+    "koordinatLongitude": 36.25075391156887,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T16:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "OSMANİYE KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-56 Adana Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "PALALI SÜLEYMAN CD. NO:49 CUMHURIYETMEYDANI",
+    "mahalle": "İSTİKLAL",
+    "ilId": 80,
+    "ilIdBolgeli": "80-0000002553",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000001016",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0 322 454 61 31",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e75c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.516705,
+      39.777584
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381385",
+    "ekipAdi": "ADALAR KAB",
+    "koordinatLatitude": 39.777584,
+    "koordinatLongitude": 30.516705,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "ADALAR KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-10 Eskişehir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "İSMET İNÖNÜ CAD. NO:19",
+    "mahalle": "HOŞNUDİYE",
+    "ilId": 26,
+    "ilIdBolgeli": "26-0000000716",
+    "ilceAd": "TEPEBAŞI",
+    "ilceId": "000000006155",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0222 330 0601 -02 -03 -04 -05",
+    "telefonDahili": "",
+    "bkmId": "0000000716",
+    "bkmTanim": "Erkan Ergen",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e75d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.313322,
+      37.029349
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381386",
+    "ekipAdi": "GENÇLİK MEYDAN KAB",
+    "koordinatLatitude": 37.029349,
+    "koordinatLongitude": 35.313322,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:30:00",
+    "bitisSaati": "0001-01-01T16:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "GENÇLİK MEYDAN KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-56 Adana Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "GENÇLIK MEYDANI (DUYGU KAFE ÖNÜ)MAVI BULVAR1. SÜMER,01140",
+    "mahalle": "YENIBARAJ",
+    "ilId": 1,
+    "ilIdBolgeli": "01-0000002553",
+    "ilceAd": "SEYHAN",
+    "ilceId": "000000000113",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0 322 454 61 31",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e75e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.3974388,
+      38.497998
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381387",
+    "ekipAdi": "Van Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 38.497998,
+    "koordinatLongitude": 43.3974388,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-41 Van Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "MARAŞAL FEVZİ ÇAKMAK CAD. KÜLTÜR SOK.",
+    "mahalle": "ŞEREFİYE",
+    "ilId": 65,
+    "ilIdBolgeli": "65-0000003626",
+    "ilceAd": "İPEKYOLU",
+    "ilceId": "000000006169",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "4322100012",
+    "telefonDahili": "",
+    "bkmId": "0000003626",
+    "bkmTanim": "İbrahim Çelik",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e75f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.313322,
+      37.029349
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381388",
+    "ekipAdi": "GENÇLİK MEYDAN KAB",
+    "koordinatLatitude": 37.029349,
+    "koordinatLongitude": 35.313322,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T16:00:00",
+    "bitisSaati": "0001-01-01T22:00:00",
+    "araBaslangicSaati": "0001-01-01T18:00:00",
+    "araBitisSaati": "0001-01-01T19:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "GENÇLİK MEYDAN KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-56 Adana Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "GENÇLIK MEYDANI (DUYGU KAFE ÖNÜ)MAVI BULVAR1. SÜMER,01140",
+    "mahalle": "YENIBARAJ",
+    "ilId": 1,
+    "ilIdBolgeli": "01-0000002553",
+    "ilceAd": "SEYHAN",
+    "ilceId": "000000000113",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0 322 454 61 31",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T18:00:00",
+        "bitisZaman": "0001-01-01T19:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e760"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.77965889,
+      41.3844814
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381398",
+    "ekipAdi": "Kastamonu Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 41.3844814,
+    "koordinatLongitude": 33.77965889,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-62 Kastamonu Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "YALÇIN CAD. NO:30/B",
+    "mahalle": "AKTEKKE",
+    "ilId": 37,
+    "ilIdBolgeli": "37-0000001433",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000585",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0366 502 05 74",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e761"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.4919,
+      37.0654
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381399",
+    "ekipAdi": "ŞANLIURFA EAH KAB",
+    "koordinatLatitude": 37.0654,
+    "koordinatLongitude": 38.4919,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T16:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "ŞANLIURFA EAH KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-20 Şanlıurfa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "YENİCE YOLU NO:1",
+    "mahalle": "YENİCE",
+    "ilId": 63,
+    "ilIdBolgeli": "63-0000004860",
+    "ilceAd": "EYYÜBİYE",
+    "ilceId": "000000006202",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0414 215 8488",
+    "telefonDahili": "",
+    "bkmId": "0000004860",
+    "bkmTanim": "Halis Uzunkaya",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e762"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.27711399,
+      39.90620699
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381403",
+    "ekipAdi": "ERZURUM KAB",
+    "koordinatLatitude": 39.90620699,
+    "koordinatLongitude": 41.27711399,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T21:00:00",
+    "araBaslangicSaati": "0001-01-01T15:00:00",
+    "araBitisSaati": "0001-01-01T16:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "ERZURUM KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-22 Erzurum Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "CUMHURIYET CAD. ZIRAAT BANKASI YANI",
+    "mahalle": "YUKARIMUMCU",
+    "ilId": 25,
+    "ilIdBolgeli": "25-0000004356",
+    "ilceAd": "YAKUTİYE",
+    "ilceId": "000000006126",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0442 342 7084-85-86",
+    "telefonDahili": "",
+    "bkmId": "0000004356",
+    "bkmTanim": "Abdullah Üzer",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e763"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.92947,
+      40.1716
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381407",
+    "ekipAdi": "MELAHAT-HALİL OLGUNER KAB",
+    "koordinatLatitude": 40.1716,
+    "koordinatLongitude": 37.92947,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:30:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "MELAHAT-HALİL OLGUNER KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-33 Diyarbakır Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KAYAPINAR CAD.CEYLAN-KARAVİL AVM ÖN",
+    "mahalle": "",
+    "ilId": 21,
+    "ilIdBolgeli": "21-0000010011",
+    "ilceAd": "KAYAPINAR",
+    "ilceId": "000000006107",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0412 228 3297",
+    "telefonDahili": "",
+    "bkmId": "0000010011",
+    "bkmTanim": "Naif Yılmaz",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e764"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.23280999,
+      39.882427
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381410",
+    "ekipAdi": "Erzurum Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 39.882427,
+    "koordinatLongitude": 41.23280999,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-22 Erzurum Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ÇAT YOLU ÜZERİ TOKİ KARLŞISI,112 ACİL ARKASI",
+    "mahalle": "MURATPAŞA",
+    "ilId": 25,
+    "ilIdBolgeli": "25-0000004356",
+    "ilceAd": "YAKUTİYE",
+    "ilceId": "000000006126",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0442 342 7084-85-86",
+    "telefonDahili": "",
+    "bkmId": "0000004356",
+    "bkmTanim": "Abdullah Üzer",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e765"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.883013,
+      40.9822209
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381413",
+    "ekipAdi": "ORDU KAB",
+    "koordinatLatitude": 40.9822209,
+    "koordinatLongitude": 37.883013,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "ORDU KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-65 Ordu Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KÖPRÜBAŞI CEREN ÖZDEMİR MEYDANI",
+    "mahalle": "",
+    "ilId": 52,
+    "ilIdBolgeli": "52-0000001458",
+    "ilceAd": "ALTINORDU",
+    "ilceId": "000000000771",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0452 225 1735",
+    "telefonDahili": "",
+    "bkmId": "0000001458",
+    "bkmTanim": "Muhsin Yıldırım",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e766"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.721376627074285,
+      37.32368839222445
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381418",
+    "ekipAdi": "MARDİN ARTUKLU KAB",
+    "koordinatLatitude": 37.32368839222445,
+    "koordinatLongitude": 40.721376627074285,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "MARDİN ARTUKLU KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-35 Mardin Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "VALİ OZAN CAD. 15 TEMMUZ DEMOKRASİ ŞEHİT",
+    "mahalle": "",
+    "ilId": 47,
+    "ilIdBolgeli": "47-0000010011",
+    "ilceAd": "ARTUKLU",
+    "ilceId": "000000006161",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0482 213 1342",
+    "telefonDahili": "",
+    "bkmId": "0000010011",
+    "bkmTanim": "Naif Yılmaz",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e767"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.795514,
+      37.167403
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381419",
+    "ekipAdi": "ŞANLIURFA KAB",
+    "koordinatLatitude": 37.167403,
+    "koordinatLongitude": 38.795514,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "ŞANLIURFA KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-20 Şanlıurfa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "DIVANYOLU CAD. YILDIZ MEYDANI A/D:1 NO:5",
+    "mahalle": "CAMİKEBİR",
+    "ilId": 63,
+    "ilIdBolgeli": "63-0000004860",
+    "ilceAd": "EYÜBİYE",
+    "ilceId": null,
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0414 215 8488",
+    "telefonDahili": "",
+    "bkmId": "0000004860",
+    "bkmTanim": "Halis Uzunkaya",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e768"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.7040976,
+      36.8922777
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381421",
+    "ekipAdi": "KAPALI YOL KAB",
+    "koordinatLatitude": 36.8922777,
+    "koordinatLongitude": 30.7040976,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T14:30:00",
+    "araBitisSaati": "0001-01-01T15:30:00",
+    "geziciEkipSebebi": null,
+    "kab": "KAPALI YOL KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-6 Antalya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KAZIM ÖZALP CADDESI",
+    "mahalle": "TAHILPAZARI",
+    "ilId": 7,
+    "ilIdBolgeli": "07-0000001351",
+    "ilceAd": "MURATPAŞA",
+    "ilceId": "000000006123",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0242 310 5555",
+    "telefonDahili": "",
+    "bkmId": "0000001351",
+    "bkmTanim": "Tufan Tuğrul Tuncay Ertop",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:30:00",
+        "bitisZaman": "0001-01-01T15:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e769"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.70604479,
+      36.892081
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381426",
+    "ekipAdi": "MARKANTALYA AVM KAB",
+    "koordinatLatitude": 36.892081,
+    "koordinatLongitude": 30.70604479,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T15:00:00",
+    "araBitisSaati": "0001-01-01T16:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "MARKANTALYA AVM KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-6 Antalya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KAZIM ÖZALP CADDESI NO:84, 07040 MURATPA",
+    "mahalle": "TAHILPAZARI",
+    "ilId": 7,
+    "ilIdBolgeli": "07-0000001351",
+    "ilceAd": "MURATPAŞA",
+    "ilceId": "000000006123",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0242 310 5555",
+    "telefonDahili": "",
+    "bkmId": "0000001351",
+    "bkmTanim": "Tufan Tuğrul Tuncay Ertop",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T15:00:00",
+        "bitisZaman": "0001-01-01T16:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e76a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.58811,
+      41.65578
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381427",
+    "ekipAdi": "Edirne Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 41.65578,
+    "koordinatLongitude": 26.58811,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T21:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-4 Edirne Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Sadık Ahmet Caddesi 12, 22100, Koca Sinan, Edirne, Türkiye",
+    "mahalle": "",
+    "ilId": 22,
+    "ilIdBolgeli": "22-0000001334",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000373",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e76b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.1743996,
+      40.9159309
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381429",
+    "ekipAdi": "SÜMER GÜNAY KAB",
+    "koordinatLatitude": 40.9159309,
+    "koordinatLongitude": 29.1743996,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T20:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "SÜMER GÜNAY KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-54 Sümer Günay Kan Bağış Merkezi Müdürlüğü",
+    "adres": "CEVİZLİ MAH.FECİR SOK. NO:2  34865KARTAL İSTANBUL",
+    "mahalle": "CEVİZLİ",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "KARTAL",
+    "ilceId": "000000000523",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": true,
+    "telefon": "02164580500-444 9 526",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e76c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.0500601,
+      39.7197876
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381430",
+    "ekipAdi": "OB Ağrı Kan Bağış Merkezi Müdürlüğü",
+    "koordinatLatitude": 39.7197876,
+    "koordinatLongitude": 43.0500601,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T15:00:00",
+    "araBitisSaati": "0001-01-01T16:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "Yeni OB Ağrı Kan Bağış Merkezi Müdürlüğü",
+    "adres": "Cumhuriyet cad.",
+    "mahalle": "LEYLEKPINAR",
+    "ilId": 4,
+    "ilIdBolgeli": "04-",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000144",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "",
+    "telefonDahili": "",
+    "bkmId": null,
+    "bkmTanim": "  ",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T15:00:00",
+        "bitisZaman": "0001-01-01T16:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e76d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.23414,
+      40.87795
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381435",
+    "ekipAdi": "PENDİK KAB",
+    "koordinatLatitude": 40.87795,
+    "koordinatLongitude": 29.23414,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T14:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": "PENDİK KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-54 Sümer Günay Kan Bağış Merkezi Müdürlüğü",
+    "adres": "ORTANCI CADDESI NO:50/1",
+    "mahalle": "DOĞU",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "PENDİK",
+    "ilceId": "000000000526",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "02164580500-444 9 526",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e76e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.70655,
+      38.49737
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381438",
+    "ekipAdi": "TURGUTLU KAB",
+    "koordinatLatitude": 38.49737,
+    "koordinatLongitude": 27.70655,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": "TURGUTLU KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-31 Manisa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ATATÜRK BULVARI, NO: 189TURGUTLU BELEDİYESİ ETKİNLİK SALONU",
+    "mahalle": "YILMAZLAR MAHALLESİ",
+    "ilId": 45,
+    "ilIdBolgeli": "45-0000005432",
+    "ilceAd": "TURGUTLU",
+    "ilceId": "000000000703",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "0236 231 7786",
+    "telefonDahili": "",
+    "bkmId": "0000005432",
+    "bkmTanim": "Barış Dolaş",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e76f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.7082,
+      38.6223
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381439",
+    "ekipAdi": "Vefa Küçük Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 38.6223,
+    "koordinatLongitude": 34.7082,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-50 Vefa Küçük Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KAPUCUBAŞI MAH. MİLLET CAD. NO:19",
+    "mahalle": "",
+    "ilId": 50,
+    "ilIdBolgeli": "50-0000001550",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000748",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0384 215 0055",
+    "telefonDahili": "",
+    "bkmId": "0000001550",
+    "bkmTanim": "Adem Tatar",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e770"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.48254,
+      41.27003
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381440",
+    "ekipAdi": "Zonguldak Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 41.27003,
+    "koordinatLongitude": 31.48254,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T08:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-16 Zonguldak Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Mithatpaşa Mah. Bülent Ecevit Cad. No:76",
+    "mahalle": "",
+    "ilId": 67,
+    "ilIdBolgeli": "67-0000001182",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000943",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "3722533015",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e771"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.933892,
+      41.015403
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381454",
+    "ekipAdi": "Çapa Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 41.015403,
+    "koordinatLongitude": 28.933892,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T21:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-2 Çapa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "TOPKAPI MAH. MİLLET CAD. NO:122 ÇAPA",
+    "mahalle": "",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000001334",
+    "ilceAd": "FATİH",
+    "ilceId": "000000000518",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0212 453 29 00",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e772"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.487867,
+      37.876574
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381457",
+    "ekipAdi": "SELÇUKLU KAB",
+    "koordinatLatitude": 37.876574,
+    "koordinatLongitude": 32.487867,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T14:30:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "SELÇUKLU KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-64 Konya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "SULTANŞAH CD. HACIVEYISZADE CAMI BAHÇES",
+    "mahalle": "FERHUNİYE",
+    "ilId": 42,
+    "ilIdBolgeli": "42-0000001433",
+    "ilceAd": "SELÇUKLU",
+    "ilceId": "000000000655",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "3323511354",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:30:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e773"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.50144853,
+      37.866966222
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381458",
+    "ekipAdi": "KARATAY KAB",
+    "koordinatLatitude": 37.866966222,
+    "koordinatLongitude": 32.50144853,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T14:30:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "KARATAY KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-64 Konya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "GARAJ CD. KARATAY BELEDIYE HIZMET BINASIÖNÜ",
+    "mahalle": "",
+    "ilId": 42,
+    "ilIdBolgeli": "42-0000001433",
+    "ilceAd": "KARATAY",
+    "ilceId": "000000000651",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": false,
+    "telefon": "3323511354",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:30:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e774"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.51227,
+      38.02334
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381459",
+    "ekipAdi": "SELÇUK ÜNİVERSİTESİ KAB",
+    "koordinatLatitude": 38.02334,
+    "koordinatLongitude": 32.51227,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T14:30:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "SELÇUK ÜNİVERSİTESİ KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-64 Konya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ARDIÇLI MAH. CELAL BAYAR CD. NO:321SELÇUKLU/KONYA",
+    "mahalle": "ARDIÇLI",
+    "ilId": 42,
+    "ilIdBolgeli": "42-0000001433",
+    "ilceAd": "SELÇUKLU",
+    "ilceId": "000000000655",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": true,
+    "telefon": "3323511354",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:30:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e775"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.09006,
+      37.75322
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381461",
+    "ekipAdi": "FORUM KAB",
+    "koordinatLatitude": 37.75322,
+    "koordinatLongitude": 29.09006,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": null,
+    "kab": "FORUM KAB",
+    "kbmId": 0,
+    "kbmAd": "KBM-42 Denizli Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "DOĞAN DEMİRCİOĞLU CAD. 2/30 20150",
+    "mahalle": "MEHMETÇİK",
+    "ilId": 20,
+    "ilIdBolgeli": "20-0000009562",
+    "ilceAd": "PAMUKKALE",
+    "ilceId": "000000006156",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN4",
+    "aferezAlinabilir": true,
+    "telefon": "0258 265 4976",
+    "telefonDahili": "",
+    "bkmId": "0000009562",
+    "bkmTanim": "Zafer Aydın",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e776"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.941505,
+      37.930053
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381510",
+    "ekipAdi": "Siirt Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 37.930053,
+    "koordinatLongitude": 41.941505,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T14:30:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-36 Siirt Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "1405 SOK. NO:8",
+    "mahalle": "BAHÇELİEVLER",
+    "ilId": 56,
+    "ilIdBolgeli": "56-0000010011",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000820",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": false,
+    "telefon": "0484 223 5674",
+    "telefonDahili": "",
+    "bkmId": "0000010011",
+    "bkmTanim": "Naif Yılmaz",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T14:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e777"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.383825,
+      38.614127
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381527",
+    "ekipAdi": "Manisa Kan Bağışı Merkezi Müdürlüğü",
+    "koordinatLatitude": 38.614127,
+    "koordinatLongitude": 27.383825,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": null,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-31 Manisa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "75. YIL MAH. 5347 SOK. NO:10/1",
+    "mahalle": "",
+    "ilId": 45,
+    "ilIdBolgeli": "45-0000005432",
+    "ilceAd": "YUNUSEMRE",
+    "ilceId": "000000006166",
+    "ekipTuru": null,
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN3",
+    "aferezAlinabilir": true,
+    "telefon": "0236 231 7786",
+    "telefonDahili": "",
+    "bkmId": "0000005432",
+    "bkmTanim": "Barış Dolaş",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e778"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3757732,
+      39.4936659
+    ]
+  },
+  "properties": {
+    "ekipID": "8800379169 - 4011562481",
+    "ekipAdi": "SARIKAYA MEYDAN ",
+    "koordinatLatitude": 39.4936659,
+    "koordinatLongitude": 35.3757732,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:30:00",
+    "bitisSaati": "0001-01-01T16:30:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-52 Yozgat Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "KAPLICA MAH. LİSE CD.SARIKAYA",
+    "mahalle": "KAPLICA MAH.",
+    "ilId": 66,
+    "ilIdBolgeli": "66-0000001550",
+    "ilceAd": "SARIKAYA",
+    "ilceId": "000000000932",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0354 217 8515",
+    "telefonDahili": "",
+    "bkmId": "0000001550",
+    "bkmTanim": "Adem Tatar",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e779"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.40126,
+      40.77654
+    ]
+  },
+  "properties": {
+    "ekipID": "8800379868 - 4011568165",
+    "ekipAdi": "KENT MEYDANI ",
+    "koordinatLatitude": 40.77654,
+    "koordinatLongitude": 30.40126,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-15 Sakarya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ATATÜRK BULVARI, 54100, SEMERCİLER, ADAPAZARI, SAKARYA, TÜRKİYE",
+    "mahalle": "SEMERCİLER",
+    "ilId": 54,
+    "ilIdBolgeli": "54-0000001182",
+    "ilceAd": "ADAPAZARI",
+    "ilceId": "000000000796",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0264 291 5226",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e77a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.22577,
+      40.25496
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381010 - 4011576642",
+    "ekipAdi": "BAYBURT MEYDANI ",
+    "koordinatLatitude": 40.25496,
+    "koordinatLongitude": 40.22577,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T19:30:00",
+    "araBaslangicSaati": "0001-01-01T15:00:00",
+    "araBitisSaati": "0001-01-01T16:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-22 Erzurum Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Cumhuriyet Caddesi 46, 69010, Halfikale, Bayburt, Türkiye",
+    "mahalle": "",
+    "ilId": 69,
+    "ilIdBolgeli": "69-0000004356",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000952",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0442 342 7084-85-86",
+    "telefonDahili": "",
+    "bkmId": "0000004356",
+    "bkmTanim": "Abdullah Üzer",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T15:00:00",
+        "bitisZaman": "0001-01-01T16:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e77b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.04465,
+      39.923
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381029 - 4011569726",
+    "ekipAdi": "IĞDIR BELEDİYE MEYDANI ",
+    "koordinatLatitude": 39.923,
+    "koordinatLongitude": 44.04465,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-41 Van Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "76000, Bağlar, Iğdır, Türkiye",
+    "mahalle": "BAĞLAR",
+    "ilId": 76,
+    "ilIdBolgeli": "76-0000003626",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000993",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "4322100012",
+    "telefonDahili": "",
+    "bkmId": "0000003626",
+    "bkmTanim": "İbrahim Çelik",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e77c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.8555057,
+      39.9282193
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381082 - 4015042153",
+    "ekipAdi": "SIHHİYE MEYDAN ",
+    "koordinatLatitude": 39.9282193,
+    "koordinatLongitude": 32.8555057,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T14:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-59 Ankara Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Abdi İpekçi Parkı Yanı Sağlık, Çankaya, Ankara, Türkiye",
+    "mahalle": "SAĞLIK",
+    "ilId": 6,
+    "ilIdBolgeli": "06-0000001433",
+    "ilceAd": "ÇANKAYA",
+    "ilceId": "000000000165",
+    "ekipTuru": "02",
+    "ekipTipi": 5,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0312 496 2065",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T14:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e77d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.49568,
+      38.88456
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381175 - 4011575081",
+    "ekipAdi": "BİNGÖL BELEDİYESİ ",
+    "koordinatLatitude": 38.88456,
+    "koordinatLongitude": 40.49568,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-33 Diyarbakır Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "İnönü Caddesi 22/2, 12000, Yenişehir, Bingöl, Türkiye",
+    "mahalle": "YENİŞEHİR",
+    "ilId": 12,
+    "ilIdBolgeli": "12-0000010011",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000251",
+    "ekipTuru": "02",
+    "ekipTipi": 5,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0412 228 3297",
+    "telefonDahili": "",
+    "bkmId": "0000010011",
+    "bkmTanim": "Naif Yılmaz",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e77e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.02688,
+      38.37173
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381258 - 4011579111",
+    "ekipAdi": "AKSARAY MEYDAN ",
+    "koordinatLatitude": 38.37173,
+    "koordinatLongitude": 34.02688,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-48 Kayseri Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "TOKİ 41, 68100, MİNARECİK, AKSARAY, TÜRKİYE",
+    "mahalle": "",
+    "ilId": 68,
+    "ilIdBolgeli": "68-0000001550",
+    "ilceAd": "",
+    "ilceId": null,
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0352 437 19 44",
+    "telefonDahili": "",
+    "bkmId": "0000001550",
+    "bkmTanim": "Adem Tatar",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e77f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.13111,
+      37.89504
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381271 - 4011577689",
+    "ekipAdi": "ATATÜRK PARKI ",
+    "koordinatLatitude": 37.89504,
+    "koordinatLongitude": 41.13111,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-34 Batman Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "MİMAR SİNAN CADDESİ 2, 72000, BAHÇELİEVLER, BATMAN, TÜRKİYE",
+    "mahalle": "BAHÇELİEVLER",
+    "ilId": 72,
+    "ilIdBolgeli": "72-0000010011",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000969",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0488 213 1382",
+    "telefonDahili": "",
+    "bkmId": "0000010011",
+    "bkmTanim": "Naif Yılmaz",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:15:00",
+        "bitisZaman": "0001-01-01T12:45:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e780"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.67525,
+      37.96993
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381273 - 4011564296",
+    "ekipAdi": "NİĞDE MEYDAN ",
+    "koordinatLatitude": 37.96993,
+    "koordinatLongitude": 34.67525,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:30:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-48 Kayseri Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ADLİYE CADDESİNİĞDE",
+    "mahalle": "YUKARIKAYABAŞI",
+    "ilId": 51,
+    "ilIdBolgeli": "51-0000001550",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000754",
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0352 437 19 44",
+    "telefonDahili": "",
+    "bkmId": "0000001550",
+    "bkmTanim": "Adem Tatar",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e781"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.48199,
+      40.4597
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381283 - 4011576344",
+    "ekipAdi": "BELEDİYE ÖNÜ ",
+    "koordinatLatitude": 40.4597,
+    "koordinatLongitude": 39.48199,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-26 Gümüşhane Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ŞEN SOKAK 3, 29000, KARAER, GÜMÜŞHANE, TÜRKİYE",
+    "mahalle": "KARAER MAH.",
+    "ilId": 29,
+    "ilIdBolgeli": "29-0000004729",
+    "ilceAd": "",
+    "ilceId": null,
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0456 213 6144",
+    "telefonDahili": "",
+    "bkmId": "0000004729",
+    "bkmTanim": "Dila Baran",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e782"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.49714,
+      38.74127
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381290 - 4011565030",
+    "ekipAdi": "MUŞ MEYDAN ",
+    "koordinatLatitude": 38.74127,
+    "koordinatLongitude": 41.49714,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-40 Muş Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "177. SOKAK 2, 49001, KÜLTÜR, MUŞ, TÜRKİYE",
+    "mahalle": "",
+    "ilId": 49,
+    "ilIdBolgeli": "49-0000003626",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000740",
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0436 212 8080",
+    "telefonDahili": "",
+    "bkmId": "0000003626",
+    "bkmTanim": "İbrahim Çelik",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e783"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.0155198,
+      41.0261304
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381309 - 4011554502",
+    "ekipAdi": "ÜSKÜDAR MEYDAN ",
+    "koordinatLatitude": 41.0261304,
+    "koordinatLongitude": 29.0155198,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T14:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-55 Zeynep Kamil Kan Bağışı Merkezi Müdürlüğ",
+    "adres": "HAKİMİYETİ MİLLİYE CADDESİ, 34672, MİMARSİNAN,MARMARAY ÇIKIŞI KARŞISI ÜSKÜDAR",
+    "mahalle": "",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "ÜSKÜDAR",
+    "ilceId": "000000000534",
+    "ekipTuru": "02",
+    "ekipTipi": 5,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0216 342 0575",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e784"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.02443,
+      40.99215
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381310 - 4011569617",
+    "ekipAdi": "KADIKÖY MEYDAN ",
+    "koordinatLatitude": 40.99215,
+    "koordinatLongitude": 29.02443,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T14:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-55 Zeynep Kamil Kan Bağışı Merkezi Müdürlüğ",
+    "adres": "Rıhtım Caddesi, 34714, Osmanağa, Kadıköy, İstanbul, Türkiye",
+    "mahalle": "OSMANAĞA",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "KADIKÖY",
+    "ilceId": "000000000521",
+    "ekipTuru": "02",
+    "ekipTipi": 5,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0216 342 0575",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e785"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.1884094,
+      37.3278624
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381325 - 4011574597",
+    "ekipAdi": "CİZRE MEYDAN ",
+    "koordinatLatitude": 37.3278624,
+    "koordinatLongitude": 42.1884094,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-33 Diyarbakır Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "73200, Şah, Cizre, Türkiye",
+    "mahalle": "ŞAH",
+    "ilId": 73,
+    "ilIdBolgeli": "73-0000010011",
+    "ilceAd": "CİZRE",
+    "ilceId": "000000000976",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0412 228 3297",
+    "telefonDahili": "",
+    "bkmId": "0000010011",
+    "bkmTanim": "Naif Yılmaz",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e786"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.54507,
+      37.92372
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381326 - 4011567183",
+    "ekipAdi": "KUYUCAK CUMHURİYET MEYDANI ",
+    "koordinatLatitude": 37.92372,
+    "koordinatLongitude": 28.54507,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-30 Aydın Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Adnan Menderes Caddesi, 09930, Cumhuriyet, Kuyucak, Türkiye",
+    "mahalle": "CUMHURİYET",
+    "ilId": 9,
+    "ilIdBolgeli": "09-0000005432",
+    "ilceAd": "KUYUCAK",
+    "ilceId": "000000000218",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0256 213 7731",
+    "telefonDahili": "",
+    "bkmId": "0000005432",
+    "bkmTanim": "Barış Dolaş",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e787"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.30812,
+      38.32595
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381332 - 4014807538",
+    "ekipAdi": "ÇEŞME MEHMETÇİK MEYDANI ",
+    "koordinatLatitude": 38.32595,
+    "koordinatLongitude": 26.30812,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:30:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-29 İzmir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "İnkılap Caddesi, 35930, 16 Eylül, Çeşme, Türkiye",
+    "mahalle": "16 EYLÜL",
+    "ilId": 35,
+    "ilIdBolgeli": "35-0000005432",
+    "ilceAd": "ÇEŞME",
+    "ilceId": "000000000543",
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0232 347 3377",
+    "telefonDahili": "",
+    "bkmId": "0000005432",
+    "bkmTanim": "Barış Dolaş",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e788"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.49074,
+      38.72248
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381335 - 4011568528",
+    "ekipAdi": "KAYSERİ HUNAT MEYDAN ",
+    "koordinatLatitude": 38.72248,
+    "koordinatLongitude": 35.49074,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-48 Kayseri Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "SİVAS BULVARI 4G, 38140, HUNAT, MELİKGAZİ, KAYSERİ, TÜRKİYE",
+    "mahalle": "HUNAT",
+    "ilId": 38,
+    "ilIdBolgeli": "38-0000001550",
+    "ilceAd": "MELİKGAZİ",
+    "ilceId": "000000000599",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0352 437 19 44",
+    "telefonDahili": "",
+    "bkmId": "0000001550",
+    "bkmTanim": "Adem Tatar",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e789"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.43581,
+      40.80462
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381345 - 4018268196",
+    "ekipAdi": "GEBZE ATATÜRK SPOR SALONU ",
+    "koordinatLatitude": 40.80462,
+    "koordinatLongitude": 29.43581,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-13 İzmit Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Şehit Mevlüt Duru Caddesi 17, 41400, Güzeller, Gebze, Kocaeli, Türkiye",
+    "mahalle": "GÜZELLER",
+    "ilId": 41,
+    "ilIdBolgeli": "41-0000001182",
+    "ilceAd": "GEBZE",
+    "ilceId": "000000000624",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0262 311 1202",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e78a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.2955525,
+      40.5075576
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381346 - 4011571385",
+    "ekipAdi": "GEYVE MEYDAN ",
+    "koordinatLatitude": 40.5075576,
+    "koordinatLongitude": 30.2955525,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:30:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-15 Sakarya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "964. Sokak, 54700, Orhaniye, Geyve, Türkiye",
+    "mahalle": "ORHANİYE",
+    "ilId": 54,
+    "ilIdBolgeli": "54-0000001182",
+    "ilceAd": "GEYVE",
+    "ilceId": "000000000789",
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0264 291 5226",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e78b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.58916,
+      36.78741
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381360 - 4011571933",
+    "ekipAdi": "FORUM AVM ",
+    "koordinatLatitude": 36.78741,
+    "koordinatLongitude": 34.58916,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-58 Mersin Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "1925. SOKAK 7, 33140, GÜVENEVLER, YENİŞEHİR, MERSİN, TÜRKİYE",
+    "mahalle": "",
+    "ilId": 33,
+    "ilIdBolgeli": "33-0000002553",
+    "ilceAd": "YENİŞEHİR",
+    "ilceId": "000000006131",
+    "ekipTuru": "02",
+    "ekipTipi": 2,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0324 239 4124",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e78c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.13001,
+      38.41834
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381367 - 4017694221",
+    "ekipAdi": "KONAK KEMERALTI ÇARŞI GİRİŞİ ",
+    "koordinatLatitude": 38.41834,
+    "koordinatLongitude": 27.13001,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-29 İzmir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Anafartalar Caddesi 12, 35250, Konak Mahallesi, Konak, İzmir, Türkiye",
+    "mahalle": "KONAK",
+    "ilId": 35,
+    "ilIdBolgeli": "35-0000005432",
+    "ilceAd": "KONAK",
+    "ilceId": "000000000554",
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0232 347 3377",
+    "telefonDahili": "",
+    "bkmId": "0000005432",
+    "bkmTanim": "Barış Dolaş",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e78d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3132197,
+      37.0292817
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381389 - 4011571448",
+    "ekipAdi": "GENÇLİK MEYDANI ",
+    "koordinatLatitude": 37.0292817,
+    "koordinatLongitude": 35.3132197,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T15:30:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T13:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-56 Adana Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Mavi Bulvarı, 01140, Sümer, Seyhan, Adana, Türkiye",
+    "mahalle": "",
+    "ilId": 1,
+    "ilIdBolgeli": "01-0000002553",
+    "ilceAd": "SEYHAN",
+    "ilceId": "000000000113",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0 322 454 61 31",
+    "telefonDahili": "",
+    "bkmId": "0000002553",
+    "bkmTanim": "Tunçhan Demir",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T13:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e78e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.26713,
+      40.94418
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381400 - 4011564211",
+    "ekipAdi": "OF ÇARŞIBAŞI CAMİİ ",
+    "koordinatLatitude": 40.94418,
+    "koordinatLongitude": 40.26713,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-28 Trabzon Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Büyük Cami Caddesi 7E, 61830, Sulaklı, Of, Türkiye",
+    "mahalle": "SULAKLI",
+    "ilId": 61,
+    "ilIdBolgeli": "61-0000004729",
+    "ilceAd": "OF",
+    "ilceId": "000000000880",
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0462 502 42 00",
+    "telefonDahili": "",
+    "bkmId": "0000004729",
+    "bkmTanim": "Dila Baran",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T00:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e78f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.98566,
+      39.41912
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381401 - 4011566987",
+    "ekipAdi": "KÜTAHYA MEYDAN ",
+    "koordinatLatitude": 39.41912,
+    "koordinatLongitude": 29.98566,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T12:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-11 Kütahya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "43020, ALİPAŞA, KÜTAHYA, TÜRKİYE",
+    "mahalle": "",
+    "ilId": 43,
+    "ilIdBolgeli": "43-0000000716",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000669",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0274 223 1212",
+    "telefonDahili": "",
+    "bkmId": "0000000716",
+    "bkmTanim": "Erkan Ergen",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e790"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.09173,
+      41.02521
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381402 - 4011554586",
+    "ekipAdi": "ÜMRANİYE MEYDAN ",
+    "koordinatLatitude": 41.02521,
+    "koordinatLongitude": 29.09173,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T12:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-53 Çekmeköy Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Alemdağ Caddesi 65C, 34764, Atatürk, Ümraniye, İstanbul, Türkiye",
+    "mahalle": "NAMIKKEMAL",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "ÜMRANİYE",
+    "ilceId": "000000000533",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0216 429 6075",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T12:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e791"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.1895749,
+      41.014113
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381404 - 4011566622",
+    "ekipAdi": "MADENLER MEYDAN ",
+    "koordinatLatitude": 41.014113,
+    "koordinatLongitude": 29.1895749,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T12:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-53 Çekmeköy Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Şile Yolu, 34782, Mehmet Akif, Çekmeköy, İstanbul, Türkiye",
+    "mahalle": "MEHMET AKİF",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "ÇEKMEKÖY",
+    "ilceId": "000000006137",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0216 429 6075",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T12:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e792"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.22853,
+      40.98633
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381406 - 4011562616",
+    "ekipAdi": "SANCAKTEPE BELEDİYESİ ",
+    "koordinatLatitude": 40.98633,
+    "koordinatLongitude": 29.22853,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T12:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-53 Çekmeköy Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ABDURRAHMAN GAZİ CADDESİ 8, 34887, ABDURRAHMANGAZİ, SANCAKTEPE, İSTANBUL, TÜRKİY",
+    "mahalle": "ABDURRAHMANGAZİ",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "SANCAKTEPE",
+    "ilceId": "000000006138",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0216 429 6075",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T12:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e793"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.16817,
+      41.03343
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381408 - 4011561649",
+    "ekipAdi": "ÇEKMEKÖY BELEDİYESİ ",
+    "koordinatLatitude": 41.03343,
+    "koordinatLongitude": 29.16817,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": "0001-01-01T12:00:00",
+    "araBitisSaati": "0001-01-01T12:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-53 Çekmeköy Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Piri Reis Caddesi 5, 34782, Merkez, Çekmeköy, İstanbul, Türkiye",
+    "mahalle": "",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000003975",
+    "ilceAd": "ÇEKMEKÖY",
+    "ilceId": "000000006137",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0216 429 6075",
+    "telefonDahili": "",
+    "bkmId": "0000003975",
+    "bkmTanim": "İlhan Birinci",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:00:00",
+        "bitisZaman": "0001-01-01T12:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e794"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.2376,
+      39.8879
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381409 - 4011572831",
+    "ekipAdi": "ERZURUM BÖLGE EĞİTİM VE ARAŞTIRMA HASTAN ESİ",
+    "koordinatLatitude": 39.8879,
+    "koordinatLongitude": 41.2376,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-22 Erzurum Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ERZURUM BÖLGE EAH, 25050, ÜNİVERSİTE, YAKUTİYE, ERZURUM, TÜRKİYE",
+    "mahalle": "",
+    "ilId": 25,
+    "ilIdBolgeli": "25-0000004356",
+    "ilceAd": "YAKUTİYE",
+    "ilceId": "000000006126",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0442 342 7084-85-86",
+    "telefonDahili": "",
+    "bkmId": "0000004356",
+    "bkmTanim": "Abdullah Üzer",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e795"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.28752,
+      41.12624
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381416 - 4011554552",
+    "ekipAdi": "ÜNYE ADNAN MENDERES MESLEKİ TEKNİK ANADO LU LİSESİ",
+    "koordinatLatitude": 41.12624,
+    "koordinatLongitude": 37.28752,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-65 Ordu Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "SANTRAL SOKAK 4, 52300, LİSELER, ÜNYE, TÜRKİYE",
+    "mahalle": "LİSELER",
+    "ilId": 52,
+    "ilIdBolgeli": "52-0000001458",
+    "ilceAd": "ÜNYE",
+    "ilceId": "000000000774",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0452 225 1735",
+    "telefonDahili": "",
+    "bkmId": "0000001458",
+    "bkmTanim": "Muhsin Yıldırım",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e796"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1558911,
+      39.1385311
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381417 - 4011567810",
+    "ekipAdi": "KIRŞEHİR MESLEKİ VE TEKNİK ANADOLU LİSES İ",
+    "koordinatLatitude": 39.1385311,
+    "koordinatLongitude": 34.1558911,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-49 Kırşehir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "TERME CADDESİ, 40100, YENİCE, KIRŞEHİR,TÜRKİYE",
+    "mahalle": "KUŞDİLLİ",
+    "ilId": 40,
+    "ilIdBolgeli": "40-0000001550",
+    "ilceAd": "KIRŞEHİR",
+    "ilceId": null,
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0386 214 2504",
+    "telefonDahili": "",
+    "bkmId": "0000001550",
+    "bkmTanim": "Adem Tatar",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e797"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.11003,
+      36.71441
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381422 - 4012036327",
+    "ekipAdi": "KİLİS MEYDAN ",
+    "koordinatLatitude": 36.71441,
+    "koordinatLongitude": 37.11003,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T12:30:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": "0001-01-01T13:00:00",
+    "araBitisSaati": "0001-01-01T14:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-19 Kilis Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Kurdağa Caddesi 25C, 79000, Yeni, Kilis, Türkiye",
+    "mahalle": "TEKYE",
+    "ilId": 79,
+    "ilIdBolgeli": "79-0000004860",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000001009",
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0348 813 1367",
+    "telefonDahili": "",
+    "bkmId": "0000004860",
+    "bkmTanim": "Halis Uzunkaya",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T13:00:00",
+        "bitisZaman": "0001-01-01T14:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e798"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.79414,
+      37.16434
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381431 - 4011564480",
+    "ekipAdi": "ŞANLIURFA TOPLAMA MEYDANI ",
+    "koordinatLatitude": 37.16434,
+    "koordinatLongitude": 38.79414,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-20 Şanlıurfa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ATATÜRK BULVARI 27, 63040, BAMYASUYU, HALİLİYE, ŞANLIURFA, TÜRKİYE",
+    "mahalle": "",
+    "ilId": 63,
+    "ilIdBolgeli": "63-0000004860",
+    "ilceAd": "HALİLİYE",
+    "ilceId": "000000006205",
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0414 215 8488",
+    "telefonDahili": "",
+    "bkmId": "0000004860",
+    "bkmTanim": "Halis Uzunkaya",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e799"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.63206,
+      40.85069
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381437 - 4011579614",
+    "ekipAdi": "AHMET YENİCE ORTAOKULU ",
+    "koordinatLatitude": 40.85069,
+    "koordinatLongitude": 26.63206,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:30:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-4 Edirne Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Cumhuriyet Caddesi 13, 22800, Cumhuriyet, Keşan, Türkiye",
+    "mahalle": "",
+    "ilId": 22,
+    "ilIdBolgeli": "22-0000001334",
+    "ilceAd": "KEŞAN",
+    "ilceId": "000000000377",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e79a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.0732,
+      39.54558
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381442 - 4018348005",
+    "ekipAdi": "DOĞUBAYAZIT MEYDAN ",
+    "koordinatLatitude": 39.54558,
+    "koordinatLongitude": 44.0732,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "Yeni OB Ağrı Kan Bağış Merkezi Müdürlüğü",
+    "adres": "Gülçin Sokak, 04400, Uluyol, Doğubayazıt, Türkiye",
+    "mahalle": "ULUYOL",
+    "ilId": 4,
+    "ilIdBolgeli": "04-",
+    "ilceAd": "DOĞUBAYAZIT",
+    "ilceId": "000000000146",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "",
+    "telefonDahili": "",
+    "bkmId": null,
+    "bkmTanim": "  ",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e79b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.422002,
+      41.2777568
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381445 - 4011572976",
+    "ekipAdi": "ZONGULDAK EREĞLİ MEYDAN ",
+    "koordinatLatitude": 41.2777568,
+    "koordinatLongitude": 31.422002,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T13:30:00",
+    "bitisSaati": "0001-01-01T16:30:00",
+    "araBaslangicSaati": "0001-01-01T12:30:00",
+    "araBitisSaati": "0001-01-01T13:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-16 Zonguldak Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "RUHİ CÖBEKOĞLU BULVARI, 67300, MÜFTÜ, EREĞLİ, TÜRKİYE",
+    "mahalle": "MÜFTÜ",
+    "ilId": 67,
+    "ilIdBolgeli": "67-0000001182",
+    "ilceAd": "EREĞLİ",
+    "ilceId": "000000000941",
+    "ekipTuru": "02",
+    "ekipTipi": 3,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "3722533015",
+    "telefonDahili": "",
+    "bkmId": "0000001182",
+    "bkmTanim": "Hasan Ergen",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T12:30:00",
+        "bitisZaman": "0001-01-01T13:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e79c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.85514,
+      41.03433
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381446 - 4018275756",
+    "ekipAdi": "BAĞCILAR KADIN VE AİLE KÜLTÜR SANAT MERKEZİ",
+    "koordinatLatitude": 41.03433,
+    "koordinatLongitude": 28.85514,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:30:00",
+    "bitisSaati": "0001-01-01T18:30:00",
+    "araBaslangicSaati": "0001-01-01T14:30:00",
+    "araBitisSaati": "0001-01-01T15:30:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-1 Başakşehir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "1020. Sokak 3, 34200, Yavuz Selim, Bağcılar, İstanbul, Türkiye",
+    "mahalle": "",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000001334",
+    "ilceAd": "BAĞCILAR",
+    "ilceId": "000000000506",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0212 447 6040",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:30:00",
+        "bitisZaman": "0001-01-01T15:30:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e79d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.77165,
+      41.12128
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381448 - 4011576466",
+    "ekipAdi": "BAŞAKŞEHİR BELEDİYESİ ",
+    "koordinatLatitude": 41.12128,
+    "koordinatLongitude": 28.77165,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-1 Başakşehir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "34494, KAYABAŞI, BAŞAKŞEHİR, İSTANBUL, TÜRKİYE",
+    "mahalle": "KAYABAŞI",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000001334",
+    "ilceAd": "BAŞAKŞEHİR",
+    "ilceId": "000000006134",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0212 447 6040",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e79e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.79682,
+      40.98978
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381449 - 4011577402",
+    "ekipAdi": "AYDIN ÜNİVERSİTESİ T BLOK",
+    "koordinatLatitude": 40.98978,
+    "koordinatLongitude": 28.79682,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T10:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-1 Başakşehir Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "1. Akasya Sokak 5B, 34295, Beşyol, Küçükçekmece, İstanbul, Türkiye",
+    "mahalle": "",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000001334",
+    "ilceAd": "KÜÇÜKÇEKMECE",
+    "ilceId": "000000000524",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0212 447 6040",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e79f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.21926,
+      41.73315
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381450 - 4011567835",
+    "ekipAdi": "KIRKLARELİ İSTASYON CADDESİ ",
+    "koordinatLatitude": 41.73315,
+    "koordinatLongitude": 27.21926,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:30:00",
+    "bitisSaati": "0001-01-01T17:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-5 Lüleburgaz Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "CUMHURİYET CADDESİ, 39000, KARAKAŞ, KIRKLARELİ, TÜRKİYE",
+    "mahalle": "KARAKAŞ",
+    "ilId": 39,
+    "ilIdBolgeli": "39-0000001334",
+    "ilceAd": "MERKEZ",
+    "ilceId": "000000000610",
+    "ekipTuru": "02",
+    "ekipTipi": 2,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0288 413 2232",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e7a0"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.35361,
+      41.40625
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381451 - 4011558732",
+    "ekipAdi": "LÜLEBURGAZ KONGRE MEYDANI ",
+    "koordinatLatitude": 41.40625,
+    "koordinatLongitude": 27.35361,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:30:00",
+    "bitisSaati": "0001-01-01T19:30:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-5 Lüleburgaz Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "İstanbul Caddesi 26, 39750, Kocasinan, Lüleburgaz, Türkiye",
+    "mahalle": "KOCASİNAN",
+    "ilId": 39,
+    "ilIdBolgeli": "39-0000001334",
+    "ilceAd": "LÜLEBURGAZ",
+    "ilceId": "000000000612",
+    "ekipTuru": "02",
+    "ekipTipi": 2,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0288 413 2232",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e7a1"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.49107,
+      39.74779
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381452 - 4012549096",
+    "ekipAdi": "DÖRTYOL MEYDANI ",
+    "koordinatLatitude": 39.74779,
+    "koordinatLongitude": 39.49107,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T09:00:00",
+    "bitisSaati": "0001-01-01T19:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-21 Erzincan Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "ORDU CADDESİ 3/11, 24100, ATATÜRK, ERZİNCAN, TÜRKİYE",
+    "mahalle": "İNÖNÜ",
+    "ilId": 24,
+    "ilIdBolgeli": "24-0000004356",
+    "ilceAd": "",
+    "ilceId": null,
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0446 223 1868",
+    "telefonDahili": "",
+    "bkmId": "0000004356",
+    "bkmTanim": "Abdullah Üzer",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e7a2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.87485,
+      40.98274
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381453 - 4011576964",
+    "ekipAdi": "BAKIRKÖY MEYDAN ",
+    "koordinatLatitude": 40.98274,
+    "koordinatLongitude": 28.87485,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:30:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-2 Çapa Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Teyyareci Hayrettin Sokak 4, 34145, Kartaltepe, Bakırköy, İstanbul, Türkiye",
+    "mahalle": "KARTALTEPE",
+    "ilId": 34,
+    "ilIdBolgeli": "34-0000001334",
+    "ilceAd": "BAKIRKÖY",
+    "ilceId": "000000000508",
+    "ekipTuru": "02",
+    "ekipTipi": 2,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0212 453 29 00",
+    "telefonDahili": "",
+    "bkmId": "0000001334",
+    "bkmTanim": "Aişe İpek Akyol",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e7a3"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.21354,
+      37.18331
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381465 - 4011569149",
+    "ekipAdi": "KARAMAN MEYDAN ",
+    "koordinatLatitude": 37.18331,
+    "koordinatLongitude": 33.21354,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T17:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-64 Konya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "İSMET PAŞA CADDESİ 41/1, 70100, TAHSİN ÜNAL, KARAMAN, TÜRKİYE",
+    "mahalle": "",
+    "ilId": 70,
+    "ilIdBolgeli": "70-0000001433",
+    "ilceAd": "",
+    "ilceId": null,
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "3323511354",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": []
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e7a4"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.46057,
+      40.877
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381467 - 4011565557",
+    "ekipAdi": "MERZİFON BELEDİYESİ ",
+    "koordinatLatitude": 40.877,
+    "koordinatLongitude": 35.46057,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T16:30:00",
+    "araBaslangicSaati": "0001-01-01T14:00:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-68 Amasya Kan Bağış Merkezi Müdürlüğü",
+    "adres": "CUMHURİYET CADDESİ 161/1, 05300, SOFULAR, MERZİFON, TÜRKİYE",
+    "mahalle": "SOFULAR",
+    "ilId": 5,
+    "ilIdBolgeli": "05-0000001458",
+    "ilceAd": "MERZİFON",
+    "ilceId": "000000000156",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0358 502 5505",
+    "telefonDahili": "",
+    "bkmId": "0000001458",
+    "bkmTanim": "Muhsin Yıldırım",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:00:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e7a5"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.48821,
+      37.87068
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381468 - 4017622897",
+    "ekipAdi": "ERBİL KORU MEYDAN ",
+    "koordinatLatitude": 37.87068,
+    "koordinatLongitude": 32.48821,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:00:00",
+    "bitisSaati": "0001-01-01T18:00:00",
+    "araBaslangicSaati": "0001-01-01T14:30:00",
+    "araBitisSaati": "0001-01-01T15:00:00",
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-64 Konya Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Kazım Karabekir Caddesi 1, 42130, Beyhekim, Selçuklu, Konya, Türkiye",
+    "mahalle": "BEYHEKİM",
+    "ilId": 42,
+    "ilIdBolgeli": "42-0000001433",
+    "ilceAd": "SELÇUKLU",
+    "ilceId": "000000000655",
+    "ekipTuru": "02",
+    "ekipTipi": 1,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "3323511354",
+    "telefonDahili": "",
+    "bkmId": "0000001433",
+    "bkmTanim": "Murat Güler",
+    "araSaatler": [
+      {
+        "id": "1",
+        "aciklama": "EKIP_ARA_SAAT",
+        "baslangicZaman": "0001-01-01T14:30:00",
+        "bitisZaman": "0001-01-01T15:00:00"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63e50ba08678e5692c26e7a6"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.38409,
+      40.91729
+    ]
+  },
+  "properties": {
+    "ekipID": "8800381492 - 4013344142",
+    "ekipAdi": "GİRESUN BELEDİYE ÖNÜ ",
+    "koordinatLatitude": 40.91729,
+    "koordinatLongitude": 38.38409,
+    "tarih": "2023-02-09T00:00:00",
+    "bitisTarihi": "2023-02-09T00:00:00",
+    "baslangicSaati": "0001-01-01T11:30:00",
+    "bitisSaati": "0001-01-01T15:00:00",
+    "araBaslangicSaati": null,
+    "araBitisSaati": null,
+    "geziciEkipSebebi": 2,
+    "kab": null,
+    "kbmId": 0,
+    "kbmAd": "KBM-25 Giresun Kan Bağışı Merkezi Müdürlüğü",
+    "adres": "Alpaslan Caddesi 5, 28200, Hacımiktat, Giresun, Türkiye",
+    "mahalle": "",
+    "ilId": 28,
+    "ilIdBolgeli": "28-0000004729",
+    "ilceAd": "",
+    "ilceId": null,
+    "ekipTuru": "02",
+    "ekipTipi": 7,
+    "belgeTuru": "ZKN6",
+    "aferezAlinabilir": false,
+    "telefon": "0454 215 2873/5369",
+    "telefonDahili": "",
+    "bkmId": "0000004729",
+    "bkmTanim": "Dila Baran",
+    "araSaatler": []
+  }
+}]

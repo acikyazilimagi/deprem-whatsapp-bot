@@ -1,0 +1,5335 @@
+[{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d16c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.8079293,
+      37.1705571,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Levent Börek Haliliye",
+    "styleUrl": "#icon-1577-7CB342",
+    "styleHash": "-bd01328",
+    "styleMapHash": {
+      "normal": "#icon-1577-7CB342-normal",
+      "highlight": "#icon-1577-7CB342-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Ücretsiz çay ve börek ikramı verilmektedir."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d16d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.801132,
+      37.1764971,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa Öğretmenevi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d16e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.788936,
+      37.159867,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - 11 Nisan Kapalı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d16f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.7834997,
+      37.1806502,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - İpekyol Gençlik Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d170"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.7925264,
+      37.164986,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Bahçelievler Gençlik Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d171"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.0485974,
+      36.9823966,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Birecik Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d172"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.8024049,
+      37.2332002,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Karaköprü Gençlik Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d173"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.799583,
+      37.2147638,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Karaköprü Kapalı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d174"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.0469731,
+      36.844097,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Ceylanpınar spor salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d175"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.972966,
+      37.5951818,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Hilvan Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d176"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.3071919,
+      38.3484507,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya Ögretmenevi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d177"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.273304,
+      38.3471995,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Merkez Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d178"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.2739251,
+      38.3476674,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Çok Amaçlı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d179"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.4188548,
+      38.3450087,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Eşref Bitlis Erkek Ögrenci Yurdu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d17a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.4499879,
+      38.3293252,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - İlhan Akıncı KYK Erkek Öğrenci Yurdu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d17b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.4048112,
+      38.3467056,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Battalgazi Kız Öğrenci Yurdu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d17c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.9292933,
+      37.5759434,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş Öğretmenevi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d17d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.2899902,
+      37.4844755,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş - Gazi İlkokulu",
+    "styleUrl": "#icon-1602-E65100-nodesc",
+    "styleHash": "107e66da",
+    "styleMapHash": {
+      "normal": "#icon-1602-E65100-nodesc-normal",
+      "highlight": "#icon-1602-E65100-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d17e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.8408048,
+      37.5960094,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş Mado Akdeniz mesleki ve teknik Anadolu lisesi Uygulama Oteli",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d17f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3183306,
+      37.0026684,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana Öğretmenevi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d180"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.247178,
+      37.058023,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Tüyap Fuar Ve Kongre Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d181"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.422065,
+      37.0401779,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Asım Savaş Kapalı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d182"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3900072,
+      37.0515228,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Kutul Amare Ögrenci Yurdu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d183"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.2793242,
+      37.7629416,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adıyaman Öğretmenevi ve ASO Müdürlüğü",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d184"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3147404,
+      36.9720809,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Nihat Geven Kapalı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d185"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1348564,
+      37.9380272,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Ayaz Elagance Düğün ve Konferans Salonu",
+    "styleUrl": "#icon-1559-FF5252",
+    "styleHash": "609e774",
+    "styleMapHash": {
+      "normal": "#icon-1559-FF5252-normal",
+      "highlight": "#icon-1559-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "1000 kişi"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d186"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1252045,
+      37.9353007,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır Büyükşehir Belediyesi Talaytepe Spor Kompleksi",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "iyecek, Battaniye, Konaklama"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d187"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.120461,
+      37.9426634,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır Stadyumu",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Belirtilen yerlerden toplanma alanlarına gitmek için servisler kaldırılıyormuş.<br>Yiyecek, Battaniye, Konaklama için servislerle taşıma yapılıyormuş."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d188"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.15135,
+      37.927178,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır Büyükşehir Belediyesi Tenis Kortu",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Belirtilen yerlerden toplanma alanlarına gitmek için servisler kaldırılıyormuş.<br>Yiyecek, Battaniye, Konaklama için servislerle taşıma yapılıyor"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d189"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.691329,
+      37.843117,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - ZAL PETROL & DÜĞÜN SARAYI",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "500 kişilik yer"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d18a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.001448,
+      38.147482,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Sezik Düğün Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d18b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.193853,
+      37.951164,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır Öğretmenevi ASO",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d18c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3959442,
+      37.0953455,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Çiçek Plaza Düğün Salonu",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "600 kişi"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d18d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4409794,
+      37.0471812,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - İncilikaya spor salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d18e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3992751,
+      37.130111,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - ŞEHİTKAMİL BELEDİYESİ BEYKENT SPOR SALONU",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d18f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3761199,
+      37.0633567,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Karakedi Saklı Bahçe",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "50 kişi"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d190"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.347143,
+      37.088459,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Lavash Ciğer",
+    "styleUrl": "#icon-1577-7CB342",
+    "styleHash": "-bd01328",
+    "styleMapHash": {
+      "normal": "#icon-1577-7CB342-normal",
+      "highlight": "#icon-1577-7CB342-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "İkram sabaha kadar devam edecek"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d191"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.333277,
+      37.0688698,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Olimpik Yüzme Havuzu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d192"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4324031,
+      37.0948312,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Gazikent Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d193"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4140215,
+      37.0781184,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep Çok Amaçli Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d194"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3456023,
+      37.0205335,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Şahinbey Belediyesi Kapalı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d195"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3187748,
+      37.124667,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Dülükbaba Gençlik Kampı",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d196"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.6343727,
+      37.0389099,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - İslahiye Gençlik Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d197"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.5105133,
+      36.9589157,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Oğuzeli Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d198"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.7937372,
+      37.0202533,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - NİZİP GENÇLİK MERKEZİ",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d199"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.8002182,
+      37.012247,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Nizip Stadyum",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d19a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.566591,
+      37.313186,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Yavuzeli Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d19b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6892062,
+      37.4265042,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Araban Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d19c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.37561,
+      37.0637755,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep Öğretmenevi Ve Akşam Sanat Okulu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d19d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.2108599,
+      36.3587696,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Show Halı Saha",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d19e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1524849,
+      36.5857223,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - GSB İSKENDERUN GENÇLİK MERKEZİ",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d19f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.189996,
+      36.5728859,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - İskenderun Belediyesi Kapalı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a0"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1374068,
+      36.2126147,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay Büyükşehir Belediyesi Spor Kompleksi ve Yaşam Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a1"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1289068,
+      36.2151178,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Toki Çok Amaçlı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3675179,
+      36.49358,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Kırıkhan Gençlik Ve Spor İlçe Başkanlığı",
+    "styleUrl": "#icon-1577-FF5252-nodesc",
+    "styleHash": "628eef57",
+    "styleMapHash": {
+      "normal": "#icon-1577-FF5252-nodesc-normal",
+      "highlight": "#icon-1577-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a3"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1557182,
+      36.2044273,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Antakya Öğretmenevi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a4"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9028365,
+      36.4270249,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Ulucinar Uygulama Oteli",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a5"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3576838,
+      37.0354281,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Çukurova Yurdu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a6"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.5726138,
+      36.262669,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Reyhanlı kapalı spor salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a7"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1224644,
+      36.228894,
+      0
+    ]
+  },
+  "properties": {
+    "name": "HATAY MERKEZ CİMNASTİK SALONU",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a8"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9458263,
+      36.0844846,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay-Onbaşılar Otel Restoran",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1a9"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.6555179,
+      37.2365411,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mardin - Bahçeşehir Koleji",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "100 koltukluk yer"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1aa"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.7248618,
+      37.323472,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mardin Öğretmenevi ve Akşam Sanat Okulu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ab"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5876069,
+      36.8301301,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mersin - Bahçeşehir Koleji",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ac"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5057567,
+      36.7572759,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mersin - Bahçeşehir Koleji Mezitli Kampüsü",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ad"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5820982,
+      36.7772018,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mersin Ogretmenevi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ae"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.145638,
+      37.9099383,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - HALİD BİN VELİD ÖĞRENCİ YURDU",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1af"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3351953,
+      38.7156682,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Mum Restaurant & Mum Petrol",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "•Yeme, içme, tuvalet var<br>•500 kişi kapasitesi "
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b0"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.279478,
+      38.72135,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Sivas - Gürün Kapalı Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252",
+    "styleHash": "1f8ff9b5",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-normal",
+      "highlight": "#icon-1602-FF5252-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "•Konaklamaya uygun<br>•Yeme, içme yok. Tuvalet mevcut<br>•300 kişi kapasiteli"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b1"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.691329,
+      37.843117,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır-ZAL PETROL & DÜĞÜN SARAYI",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.394183,
+      36.7755232,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Antalya-Sayanora Hotel",
+    "styleUrl": "#icon-1602-9C27B0-nodesc",
+    "styleHash": "5578b3da",
+    "styleMapHash": {
+      "normal": "#icon-1602-9C27B0-nodesc-normal",
+      "highlight": "#icon-1602-9C27B0-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b3"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.8638037,
+      38.6254813,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Nevşehir -Burcu Kaya Hotel",
+    "styleUrl": "#icon-1602-9C27B0-nodesc",
+    "styleHash": "5578b3da",
+    "styleMapHash": {
+      "normal": "#icon-1602-9C27B0-nodesc-normal",
+      "highlight": "#icon-1602-9C27B0-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b4"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.8461819,
+      38.7197528,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Nevşehir-bayer stone house",
+    "styleUrl": "#icon-1602-9C27B0-nodesc",
+    "styleHash": "5578b3da",
+    "styleMapHash": {
+      "normal": "#icon-1602-9C27B0-nodesc-normal",
+      "highlight": "#icon-1602-9C27B0-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b5"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.844165,
+      38.718206,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Nevşehir-Seval White House",
+    "styleUrl": "#icon-1602-9C27B0-nodesc",
+    "styleHash": "5578b3da",
+    "styleMapHash": {
+      "normal": "#icon-1602-9C27B0-nodesc-normal",
+      "highlight": "#icon-1602-9C27B0-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b6"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.479817,
+      38.7164605,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kayseri-Tower 352 Hotel",
+    "styleUrl": "#icon-1602-9C27B0-nodesc",
+    "styleHash": "5578b3da",
+    "styleMapHash": {
+      "normal": "#icon-1602-9C27B0-nodesc-normal",
+      "highlight": "#icon-1602-9C27B0-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b7"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.0741233,
+      41.2241743,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Rize-Doğa Otel Ardeşen",
+    "styleUrl": "#icon-1602-9C27B0-nodesc",
+    "styleHash": "5578b3da",
+    "styleMapHash": {
+      "normal": "#icon-1602-9C27B0-nodesc-normal",
+      "highlight": "#icon-1602-9C27B0-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b8"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.9141552,
+      37.5870783,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ahbap hep yanınızda.",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sevginin ve gerçeğin peşindeyiz."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1b9"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3738227,
+      37.0776878,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ahbap hep yanınızda.",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sevginin ve gerçeğin peşindeyiz."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ba"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.2975499,
+      37.0148848,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ahbap hep yanınızda.",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sevginin ve gerçeğin peşindeyiz."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1bb"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1538832,
+      36.2265136,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ahbap hep yanınızda.",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sevginin ve gerçeğin peşindeyiz."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1bc"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.8019208,
+      37.1587878,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ahbap hep yanınızda.",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sevginin ve gerçeğin peşindeyiz."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1bd"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1763008,
+      37.9214565,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ahbap hep yanınızda.",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sevginin ve gerçeğin peşindeyiz."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1be"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.7342909,
+      37.3155396,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ahbap hep yanınızda.",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sevginin ve gerçeğin peşindeyiz."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1bf"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.3083195,
+      38.3418441,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ahbap hep yanınızda.",
+    "styleUrl": "#icon-1899-DB4436",
+    "styleHash": "-16b7f06d",
+    "styleMapHash": {
+      "normal": "#icon-1899-DB4436-normal",
+      "highlight": "#icon-1899-DB4436-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sevginin ve gerçeğin peşindeyiz."
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c0"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1791381,
+      37.9452985,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır-Arya Rehabilitasyon",
+    "styleUrl": "#icon-1559-FF5252-nodesc",
+    "styleHash": "-3c77cbed",
+    "styleMapHash": {
+      "normal": "#icon-1559-FF5252-nodesc-normal",
+      "highlight": "#icon-1559-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c1"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1790274,
+      37.9450417,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır-Pîya Mutfak Cafe",
+    "styleUrl": "#icon-1559-FF5252-nodesc",
+    "styleHash": "-3c77cbed",
+    "styleMapHash": {
+      "normal": "#icon-1559-FF5252-nodesc-normal",
+      "highlight": "#icon-1559-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.172986,
+      38.3476663,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya- LC Waikiki Talu Tekstil San. Tic. A.Ş.",
+    "styleUrl": "#icon-1577-7CB342-nodesc",
+    "styleHash": "5a4b0cd9",
+    "styleMapHash": {
+      "normal": "#icon-1577-7CB342-nodesc-normal",
+      "highlight": "#icon-1577-7CB342-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c3"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.1823275,
+      38.3699231,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya- LC Waikiki Fetih Tekstil Malatya - 1.Şube",
+    "styleUrl": "#icon-1577-7CB342-nodesc",
+    "styleHash": "5a4b0cd9",
+    "styleMapHash": {
+      "normal": "#icon-1577-7CB342-nodesc-normal",
+      "highlight": "#icon-1577-7CB342-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c4"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.1794247,
+      38.3431444,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya- LC Waikiki Trikotek tekstil",
+    "styleUrl": "#icon-1577-7CB342-nodesc",
+    "styleHash": "5a4b0cd9",
+    "styleMapHash": {
+      "normal": "#icon-1577-7CB342-nodesc-normal",
+      "highlight": "#icon-1577-7CB342-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c5"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.179884,
+      38.3727,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya- LC Waikiki -Taha Dış Giyim San. Tic. Ltd. Şti",
+    "styleUrl": "#icon-1577-7CB342-nodesc",
+    "styleHash": "5a4b0cd9",
+    "styleMapHash": {
+      "normal": "#icon-1577-7CB342-nodesc-normal",
+      "highlight": "#icon-1577-7CB342-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c6"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.8939071,
+      40.9725106,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Ramada Plaza by Wyndham Ordu",
+    "styleUrl": "#icon-1602-9C27B0-nodesc",
+    "styleHash": "5578b3da",
+    "styleMapHash": {
+      "normal": "#icon-1602-9C27B0-nodesc-normal",
+      "highlight": "#icon-1602-9C27B0-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c7"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3190971,
+      37.0037822,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana Garı",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c8"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.6337372,
+      36.8026763,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mersin Gar",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1c9"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.2369992,
+      37.079303,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Osmaniye Garı",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ca"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1810271,
+      36.587527,
+      0
+    ]
+  },
+  "properties": {
+    "name": "İskenderun Garı",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1cb"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2160748,
+      37.91368,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır İstasyonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1cc"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.2227475,
+      38.6651336,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Elazığ Gar",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1cd"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.283345,
+      38.3522299,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya Gar",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ce"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.2464584,
+      36.9864948,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mersin -Arslanköy İsmail’in Yeri Bungalov",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1cf"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.2855219,
+      38.4940666,
+      0
+    ]
+  },
+  "properties": {
+    "name": "HOTEL TATVAN KARDELEN",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d0"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.0492273,
+      37.5122019,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mirel Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d1"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.7267058,
+      40.4336312,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Demir Dügün Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.2685259,
+      37.8700911,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Porteras Otel - Spa & Restaurant",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d3"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.2914829,
+      37.3582954,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Didyma Apollon Otel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d4"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.2796012,
+      37.357055,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Didim Asel Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d5"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.2820796,
+      37.3567261,
+      0
+    ]
+  },
+  "properties": {
+    "name": "The Lea Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d6"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.4327942,
+      37.3863444,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Dimora Boemo Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d7"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5876069,
+      36.8301301,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mersin Bahçeşehir Koleji Anaokulu-İlkokul-Ortaokul-Anadolu Lisesi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d8"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5057567,
+      36.7572759,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Bahçeşehir Koleji Mezitli Kampüsü",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1d9"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.6260934,
+      36.7960991,
+      0
+    ]
+  },
+  "properties": {
+    "name": "MERKEZ ÖĞRETMENEVİ VE AKŞAM SANAT OKULU",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1da"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5339518,
+      36.7514971,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Yücesoy Liva Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1db"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1400616,
+      36.4607785,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kızkalesi Apart Otel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1dc"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.595793,
+      36.797913,
+      0
+    ]
+  },
+  "properties": {
+    "name": "FIRSATBUL MOBİLYA",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1dd"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.2976007,
+      36.599116,
+      0
+    ]
+  },
+  "properties": {
+    "name": "BROS OTEL",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1de"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.07294,
+      36.3841071,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Silifke Genclik Kamplari",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1df"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.0769879,
+      36.9756887,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Çağ Üniversitesi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e0"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.142729,
+      36.4605663,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Rain Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e1"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1450835,
+      36.4621613,
+      0
+    ]
+  },
+  "properties": {
+    "name": "PAŞA HOTEL",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.8874232,
+      36.317209,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Otel Olba",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e3"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1470953,
+      36.463452,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Seyran Apart Motel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e4"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1445342,
+      36.4621893,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Holiday Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e5"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1427606,
+      36.4598309,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Barbarossa Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e6"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.8554583,
+      36.0637438,
+      0
+    ]
+  },
+  "properties": {
+    "name": "RUMANA HOTEL",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e7"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.146478,
+      36.462455,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hotel Horizont",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e8"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5874129,
+      36.8043746,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Yenişehir Belediyesi Atatürk Kültür Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1e9"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5720236,
+      36.7822765,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Özgecan Spor Tesisleri",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ea"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5529279,
+      36.7667157,
+      0
+    ]
+  },
+  "properties": {
+    "name": "CNR EXPO Fuar Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1eb"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5519553,
+      36.7891286,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Servet Tazegül Spor Salonu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ec"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5356586,
+      36.7893066,
+      0
+    ]
+  },
+  "properties": {
+    "name": "KYK Mersin Kırkkaşık Kız Öğrenci Yurdu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ed"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.5261367,
+      36.7904974,
+      0
+    ]
+  },
+  "properties": {
+    "name": "KYK Erkek Öğrenci Yurdu",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ee"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.4957349,
+      36.7224879,
+      0
+    ]
+  },
+  "properties": {
+    "name": "İçel Kyk",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ef"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.140819,
+      36.4609844,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Palmiye Otel Suit",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f0"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1445792,
+      36.4615679,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Palmiye Otel 2",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f1"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.6130085,
+      36.791407,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Noax Hotel",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1864903,
+      36.5010296,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Athena Suits",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f3"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.1366378,
+      36.4591177,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Mersin Atlantis Butik Otel & Dalış Merkezi",
+    "styleUrl": "#icon-1602-FF5252-nodesc",
+    "styleHash": "493b71d4",
+    "styleMapHash": {
+      "normal": "#icon-1602-FF5252-nodesc-normal",
+      "highlight": "#icon-1602-FF5252-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f4"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3750793,
+      37.0635716,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Yeni Adana Stadyumu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f5"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.2300152,
+      36.9951666,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Yeşiloba Hipodromu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f6"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3581363,
+      37.0038985,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Serinevler Spor Salonu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f7"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3499559,
+      37.0099585,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Yüreğir Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f8"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3293376,
+      37.0223198,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - İsmet Atlı Güreş Eğitim Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1f9"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.3209216,
+      36.995996,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Atatürk Yüzme Havuzları Kompleksi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1fa"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.2656898,
+      37.0320549,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Çukurova İlçe Atletizm Pisti",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1fb"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.2671564,
+      37.033226,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1fc"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.827965,
+      37.027795,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adana - Ceyhan Spor Salonu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1fd"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.2431098,
+      37.746711,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Adıyaman - Eğriçay Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1fe"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2195628,
+      37.8964665,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Yenişehir Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d1ff"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1967146,
+      37.9422214,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Abdürrezzak Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d200"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1968207,
+      37.9194983,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Bağlar Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d201"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.151221,
+      37.981787,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Tüyap Fuar ve Kongre Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d202"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1737752,
+      37.9542168,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Şehit Halit Gülser Kız Anadolu İmam Hatip Lisesi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d203"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1751973,
+      37.9312452,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Şehit Polis Halit Gürsel Spor Kompleksi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d204"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.120461,
+      37.9426634,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır Stadyumu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d205"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1252045,
+      37.9353007,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Talaytepe Spor Kompleksi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d206"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2110096,
+      37.9353375,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Seyrantepe Kapalı Spor Salonu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d207"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.241504,
+      37.911552,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Kurşunlu Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d208"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2121545,
+      37.9160558,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Fatih Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d209"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2358816,
+      37.9124471,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır Ulu Camii",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d20a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2279755,
+      37.919526,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır Merkez Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d20b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.180527,
+      37.94267,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Mehmet Ümit Balcı Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d20c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.130013,
+      37.9161689,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Halidiye Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d20d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1734721,
+      37.932456,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - İsmail Hakkı Demirok Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d20e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2420516,
+      37.9148967,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Hazreti Süleyman Camii",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d20f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2005665,
+      37.9271418,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Kaynartepe Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d210"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2366364,
+      37.9162278,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Mervani Camii",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d211"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1858696,
+      37.949388,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Hayırseverler Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d212"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2420516,
+      37.9148967,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Hazreti Süleyman Camii",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d213"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1958372,
+      37.9388212,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Mekke Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d214"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.2072327,
+      37.9176757,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - Abide Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d215"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.3456115,
+      37.7804183,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır Hipodromu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d216"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.1396113,
+      37.9345478,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Diyarbakır - GEN Koleji",
+    "styleUrl": "#icon-1826-0288D1",
+    "styleHash": "50d9edb1",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-normal",
+      "highlight": "#icon-1826-0288D1-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+    "description": "Sorumlu Kişi: Eyvan Akyıl<br>Kapasite: 2000"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d217"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.374688,
+      37.220205,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Kuzeyşehir Spor Salonu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d218"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3960015,
+      37.058055,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Talat Özkarslı Spor Salonu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d219"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3376812,
+      37.057535,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Hasan Doğan Spor Kompleksi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d21a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3113912,
+      37.0280057,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Müzeyyen Erkul Bilim ve Sanat Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d21b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3229063,
+      37.0794155,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Vadi Park",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d21c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3072549,
+      37.1231187,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Erikçe Piknik Alanı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d21d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3757511,
+      37.0645412,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - 100. Yıl Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d21e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.2899449,
+      37.0307015,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Burç Tabiat Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d21f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3525923,
+      37.0616097,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Kavaklık Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d220"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3147441,
+      37.053212,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - 10 Nisan Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d221"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3770757,
+      37.0476898,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Çamlık parki",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d222"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3261261,
+      37.0467456,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Uğur Okulları Kampüsü",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d223"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4210431,
+      37.088179,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Mehmet Annaç Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d224"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3761199,
+      37.0633567,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Gaziantep - Karakedi Saklı Bahçe",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d225"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.140907,
+      36.205344,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Esentepe Mehmet Akar İlkokulu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d226"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1248084,
+      36.2140433,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Sınav",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d227"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1426246,
+      36.1263805,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Harbiye Seyir Terasi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d228"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1325188,
+      36.2078567,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Halı Saha",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d229"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1483338,
+      36.1863073,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Antik Park",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d22a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1536955,
+      36.191881,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Dostluk 2 Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d22b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1572088,
+      36.1944412,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Maxim Park",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d22c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1564558,
+      36.194083,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Nimet Fahri Öksüz Anadolu ve Turizm Lisesi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d22d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1369025,
+      36.1318488,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Atatürk Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d22e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1418143,
+      36.1968515,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Çocuk Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d22f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.171183,
+      36.5917389,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Yeşil Alan",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d230"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1515729,
+      36.189252,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Sevgi Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d231"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.9242803,
+      37.5739541,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş - 12 Şubat Stadyumu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d232"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.9344737,
+      37.5577036,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş Spor Tesisleri",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d233"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.923184,
+      37.558479,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş Belediyesi Fuar Mer.",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d234"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.9229208,
+      37.556522,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş - Atatürk Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d235"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.290757,
+      37.487603,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş - Pazarcık Otobüs Terminali",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d236"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.2165509,
+      38.194102,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Kahramanmaraş - Açık Pazar Alanı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d237"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1369474,
+      36.1323663,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Hatay - Defne Harbiye Hidropark",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d238"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.3274481,
+      38.3483791,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Hürriyet Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d239"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.287803,
+      38.347832,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Dedekorkut Sosyal Tesisleri",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d23a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.3071611,
+      38.3551824,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Salköprü Semt Konağı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d23b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.2854943,
+      38.336328,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Özalper Semt Konagi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d23c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.9706954,
+      38.343872,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Akçadağ Belediyesi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d23d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.9769864,
+      38.3442326,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Akçadağ Anadolu Lisesi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d23e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.9711379,
+      38.344499,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Akçadağ Şehit Alper Güde Teknik Lise Ve Çok Programlı Lise",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d23f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.4924392,
+      39.0416374,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Arapgir Belediyesi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d240"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4908019,
+      38.5605619,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Darende Hükümet Konağı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d241"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.3316816,
+      38.3527676,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Battalgazi Belediyesi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d242"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.038906,
+      38.313002,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Doğanyol Lisesi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d243"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6701968,
+      38.8825782,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - Kuluncak İlçe Milli Eğitim Müdürlüğü",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d244"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.2744276,
+      38.3482939,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Malatya - GSB Beydağı Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d245"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.7783002,
+      37.1783106,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Ahmet Yesevi Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d246"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.973344,
+      37.0148775,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Birecik Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d247"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.5284279,
+      37.3646036,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Bozova Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d248"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      40.0486258,
+      36.8588722,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Ceylanpınar Büyükşehir Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d249"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.9439547,
+      37.2287229,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Halfeti Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d24a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.9533158,
+      37.5846434,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Hilvan Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d24b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.8127197,
+      37.1214404,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Hayati Harrani Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d24c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.783496,
+      37.164814,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Şehitlik İlkokulu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d24d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.7683385,
+      37.1713751,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - İbrahim Halil Yıldım Parkı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d24e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.8278821,
+      37.162349,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Sırrın Cami",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d24f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.7807195,
+      37.1442673,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Harran Kapı Caddesi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d250"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.7908085,
+      37.1605757,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Rabia Meydanı",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d251"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.9733695,
+      37.1750793,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa Hipodromu",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+},{
+  "_id": {
+    "$oid": "63e68e3cea585824b608d252"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.7671446,
+      37.2250279,
+      0
+    ]
+  },
+  "properties": {
+    "name": "Şanlıurfa - Viranşehir Gençlik Merkezi",
+    "styleUrl": "#icon-1826-0288D1-nodesc",
+    "styleHash": "-71ff3f66",
+    "styleMapHash": {
+      "normal": "#icon-1826-0288D1-nodesc-normal",
+      "highlight": "#icon-1826-0288D1-nodesc-highlight"
+    },
+    "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+  }
+}]
