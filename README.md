@@ -1,10 +1,12 @@
 # Yanındayım - Acil Durum Destek Botu
 
   Yanındayım Deprem Destek Botuna WhatsApp üstünden konum yollamanız halinde seçiminize göre size en yakın; 
-      1️⃣ Acil Durum Toplanma Alanları (E-Devlet Entegrasyonlu) [Ülke Geneli],
-      2️⃣ Afet Konaklama ve Beslenme Alanı (Ahbap Map Entegrasyonlu) [Sadece Afet Bölgeleri],
-      3️⃣ Kızılay Kan Bağış Noktaları (Kızılay Entegrasyonlu) [Ülke Geneli],
-      4️⃣ Sahra Konteyner Eczaneler [Sadece Afet Bölgeleri],
+  
+    1️⃣ Acil Durum Toplanma Alanları (E-Devlet Entegrasyonlu) [Ülke Geneli],
+    2️⃣ Afet Konaklama ve Beslenme Alanı (Ahbap Map Entegrasyonlu) [Sadece Afet Bölgeleri],
+    3️⃣ Kızılay Kan Bağış Noktaları (Kızılay Entegrasyonlu) [Ülke Geneli],
+    4️⃣ Sahra Konteyner Eczaneler [Sadece Afet Bölgeleri],
+    
   konum olarak gelecektir.
 
   Yanındayım Destek Hattı:
@@ -24,7 +26,7 @@
   
 ## Teşekkür
 
-Projeye desteklerinden dolayı başta **CarryVibe** ekibine ve sunduğu imkanlardan dolayı **IT Deprem Yardım** grubu yöneticilerine ve üyelerine çok teşekkürler!
+Projeye desteklerinden dolayı başta **CarryVibe** ekibine ve sunduğu imkanlardan dolayı **IT Deprem Yardım** grubu yöneticilerine ve üyelerine çok teşekkürler! Bulunduğumuz durumdan dolayı projeyi hızlı şekilde çıkarttık. Hatalarımız olduysa affola.
 
   "Her şey unutulur. Fakat biz her şeyi gençliğe bırakacağız. O gençlik ki hiçbir şeyi unutmayacaktır; geleceğin ümidi, ışık saçan çiçekleri onlardır. Bütün ümidim gençliktedir." 
   (Mustafa Kemal Atatürk)
