@@ -56,7 +56,7 @@ const startSock = async() => {
 
 			// only if store is present
 			return {
-				conversation: 'testtesttesttesttesttest'
+				conversation: 'hello'
 			}
 		}
 	})
@@ -93,6 +93,7 @@ const startSock = async() => {
 			// received a new message
 			if(events['messages.upsert']) {
 				const upsert = events['messages.upsert']
+				console.log('recv messages ', JSON.stringify(upsert, undefined, 2))
 
 				if(upsert.type === 'notify') {
 					for(const msg of upsert.messages) {
@@ -199,7 +200,26 @@ const startSock = async() => {
 								}
 							}
 
-							if (msg.message?.locationMessage){
+							if (msg.message?.locationMessage || msg.message?.liveLocationMessage){
+
+								const location:any = {
+									latitude:null,
+									longutide:null
+								};
+
+								if(msg.message?.locationMessage)
+								{
+									location.latitude = msg.message?.locationMessage?.degreesLatitude
+									location.longutide = msg.message?.locationMessage?.degreesLongitude
+								}
+								else if (msg.message?.liveLocationMessage)
+								{
+									location.latitude = msg.message?.liveLocationMessage?.degreesLatitude
+									location.longutide = msg.message?.liveLocationMessage?.degreesLongitude
+								}
+
+
+
 								const sesdoc = { id: msg.key.remoteJid!};
 								const sesresult = await db.collection("session").findOne(sesdoc);
 
@@ -218,16 +238,13 @@ const startSock = async() => {
 											var w3p = parse(String(cookies),"w3p=",";");
 											var token = parse(String(response.data),'data-token="','"');
 		
-											const latitude = msg.message?.locationMessage?.degreesLatitude
-											const longutide = msg.message?.locationMessage?.degreesLongitude
-		
 											axios.post('https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama?harita=goster&submit', new url.URLSearchParams({
 												pn: '/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama',
 												ajax: '1',
 												token: token,
 												islem: 'getAlanlarForNokta',
-												lat: String(latitude),
-												lng: String(longutide),
+												lat: String(location.latitude),
+												lng: String(location.longutide),
 											  }),
 											  {
 												headers: {
@@ -281,15 +298,12 @@ const startSock = async() => {
 										});
 									}
 									else if (obj.last_message == "ahbap")
-									{
-										const latitude = msg.message?.locationMessage?.degreesLatitude
-										const longutide = msg.message?.locationMessage?.degreesLongitude
-										
+									{										
 										const dataa = db.collection("alanlar").aggregate([{
 											$geoNear: {
 												near: {
 													type: "Point",
-													coordinates: [longutide,latitude]													
+													coordinates: [location.longutide,location.latitude]													
 												},
 												distanceField: "dist.calculated",
 												maxDistance: 2000000000000,
@@ -337,15 +351,12 @@ const startSock = async() => {
 										await sock.sendMessage(msg.key.remoteJid!, { text: "Hayatını kaybeden vatandaşlarımıza Allah'tan rahmet, yaralılara acil şifalar, yakınlarına sabır ve başsağlığı diliyoruz.\r\n\r\n*Devam etmek için sohbete herhangi bir şey yazabilirsiniz.*  \r\n\r\n *Yanındayım Ekibi*" })
 									}
 									else if (obj.last_message == "kanbagis")
-									{
-									    const latitude = msg.message?.locationMessage?.degreesLatitude
-									    const longutide = msg.message?.locationMessage?.degreesLongitude
-									
+									{					
 									    const dataa = db.collection("kanbagisi").aggregate([{
 									        $geoNear: {
 									            near: {
 									                type: "Point",
-									                coordinates: [longutide,latitude]													
+									                coordinates: [location.longutide,location.latitude]													
 									            },
 									            distanceField: "dist.calculated",
 									            maxDistance: 2000000000000,
@@ -372,14 +383,11 @@ const startSock = async() => {
 									}
 									else if (obj.last_message == "eczane")
 									{
-									    const latitude = msg.message?.locationMessage?.degreesLatitude
-									    const longutide = msg.message?.locationMessage?.degreesLongitude
-
 									    const dataaa = db.collection("eczaneler").aggregate([{
 											$geoNear: {
 												near: {
 													type: "Point",
-													coordinates: [Number(longutide),Number(latitude)]	
+													coordinates: [Number(location.longutide),Number(location.latitude)]	
 												},
 												distanceField: "dist.calculated",
 												maxDistance: 20000000000000,
@@ -419,7 +427,7 @@ const startSock = async() => {
 	return sock
 }
 
-function parse(source: string, left: string, right: string) {
+function parse(source, left, right) {
     //left,right parser
     return source.split(left)[1].split(right)[0];
 }
